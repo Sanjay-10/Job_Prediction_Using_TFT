@@ -1,0 +1,1537 @@
+ref_date,geo,noc_code,job_char,predicted_total_vacancies
+2024-01-01,Alberta,0,Full-time,-14.96540360523793
+2024-04-01,Alberta,0,Full-time,-25.094372823864422
+2024-07-01,Alberta,0,Full-time,-23.577691406209926
+2024-10-01,Alberta,0,Full-time,49.44325622688663
+2024-01-01,Alberta,0,"Type of work, all types",-15.25659442725254
+2024-04-01,Alberta,0,"Type of work, all types",-25.61451555725848
+2024-07-01,Alberta,0,"Type of work, all types",-24.055347051925438
+2024-10-01,Alberta,0,"Type of work, all types",50.29184128308551
+2024-01-01,Alberta,1,Full-time,171.0637148474574
+2024-04-01,Alberta,1,Full-time,223.151278786598
+2024-07-01,Alberta,1,Full-time,237.7605700217093
+2024-10-01,Alberta,1,Full-time,8610.556894447935
+2024-01-01,Alberta,1,Part-time,32.65308368667257
+2024-04-01,Alberta,1,Part-time,31.811574677446053
+2024-07-01,Alberta,1,Part-time,33.0774379791128
+2024-10-01,Alberta,1,Part-time,927.4039021862902
+2024-01-01,Alberta,1,"Type of work, all types",198.24848202179692
+2024-04-01,Alberta,1,"Type of work, all types",250.69419778523616
+2024-07-01,Alberta,1,"Type of work, all types",269.9237551597595
+2024-10-01,Alberta,1,"Type of work, all types",9807.762617585817
+2024-01-01,Alberta,2,Full-time,90.9781074826102
+2024-04-01,Alberta,2,Full-time,91.00239982542499
+2024-07-01,Alberta,2,Full-time,120.80392264934432
+2024-10-01,Alberta,2,Full-time,4689.298407570503
+2024-01-01,Alberta,2,"Type of work, all types",202.59258680387097
+2024-04-01,Alberta,2,"Type of work, all types",158.4231231707605
+2024-07-01,Alberta,2,"Type of work, all types",162.7944109572196
+2024-10-01,Alberta,2,"Type of work, all types",5622.7619054969055
+2024-01-01,Alberta,3,Full-time,150.355641982326
+2024-04-01,Alberta,3,Full-time,117.8782014132673
+2024-07-01,Alberta,3,Full-time,120.25924558587195
+2024-10-01,Alberta,3,Full-time,2663.949807744395
+2024-01-01,Alberta,3,Part-time,13.47994871112678
+2024-04-01,Alberta,3,Part-time,54.37816811108265
+2024-07-01,Alberta,3,Part-time,55.03632633373815
+2024-10-01,Alberta,3,Part-time,2478.021234716794
+2024-01-01,Alberta,3,"Type of work, all types",164.19261210321133
+2024-04-01,Alberta,3,"Type of work, all types",131.39610187155944
+2024-07-01,Alberta,3,"Type of work, all types",165.93312338335716
+2024-10-01,Alberta,3,"Type of work, all types",4579.17777518621
+2024-01-01,Alberta,4,Full-time,137.74744488158325
+2024-04-01,Alberta,4,Full-time,145.75424616485276
+2024-07-01,Alberta,4,Full-time,145.28516523894652
+2024-10-01,Alberta,4,Full-time,4766.853069691946
+2024-01-01,Alberta,4,Part-time,95.6278618879661
+2024-04-01,Alberta,4,Part-time,78.75217843775461
+2024-07-01,Alberta,4,Part-time,79.79020384615373
+2024-10-01,Alberta,4,Part-time,2416.599591285185
+2024-01-01,Alberta,4,"Type of work, all types",237.7677717825062
+2024-04-01,Alberta,4,"Type of work, all types",223.99055658469112
+2024-07-01,Alberta,4,"Type of work, all types",224.9016311003824
+2024-10-01,Alberta,4,"Type of work, all types",7203.990036415792
+2024-01-01,Alberta,5,Full-time,20.409150708537766
+2024-04-01,Alberta,5,Full-time,22.869371858252205
+2024-07-01,Alberta,5,Full-time,24.940395021352643
+2024-10-01,Alberta,5,Full-time,413.05814491096476
+2024-01-01,Alberta,5,Part-time,0.16999709324045753
+2024-04-01,Alberta,5,Part-time,-1.7087121278871102
+2024-07-01,Alberta,5,Part-time,-1.774498996107639
+2024-10-01,Alberta,5,Part-time,441.29425727381073
+2024-01-01,Alberta,5,"Type of work, all types",-29.390200584659382
+2024-04-01,Alberta,5,"Type of work, all types",-31.66326136415007
+2024-07-01,Alberta,5,"Type of work, all types",-32.24497975652628
+2024-10-01,Alberta,5,"Type of work, all types",918.4863300888397
+2024-01-01,Alberta,6,Full-time,284.59625755441266
+2024-04-01,Alberta,6,Full-time,656.0154527927324
+2024-07-01,Alberta,6,Full-time,792.8444703683134
+2024-10-01,Alberta,6,Full-time,20600.385259235674
+2024-01-01,Alberta,6,Part-time,148.66146134530447
+2024-04-01,Alberta,6,Part-time,194.90546116584625
+2024-07-01,Alberta,6,Part-time,217.25254031024963
+2024-10-01,Alberta,6,Part-time,9901.769991010444
+2024-01-01,Alberta,6,"Type of work, all types",703.7169798795366
+2024-04-01,Alberta,6,"Type of work, all types",694.6943280294638
+2024-07-01,Alberta,6,"Type of work, all types",695.1099630353165
+2024-10-01,Alberta,6,"Type of work, all types",30707.64620871444
+2024-01-01,Alberta,7,Full-time,280.8999001957293
+2024-04-01,Alberta,7,Full-time,1086.3998324034158
+2024-07-01,Alberta,7,Full-time,1104.2498568895307
+2024-10-01,Alberta,7,Full-time,25981.90726376974
+2024-01-01,Alberta,7,Part-time,34.05367792685229
+2024-04-01,Alberta,7,Part-time,31.303926020730213
+2024-07-01,Alberta,7,Part-time,31.351794081974514
+2024-10-01,Alberta,7,Part-time,1350.8126929884615
+2024-01-01,Alberta,7,"Type of work, all types",355.3362468726709
+2024-04-01,Alberta,7,"Type of work, all types",1118.2948881051293
+2024-07-01,Alberta,7,"Type of work, all types",1157.817647721185
+2024-10-01,Alberta,7,"Type of work, all types",27624.327872265727
+2024-01-01,Alberta,8,Full-time,68.84317261098772
+2024-04-01,Alberta,8,Full-time,28.61066800227654
+2024-07-01,Alberta,8,Full-time,63.189924629274884
+2024-10-01,Alberta,8,Full-time,2622.9112080021564
+2024-01-01,Alberta,8,Part-time,185.0
+2024-04-01,Alberta,8,Part-time,185.0
+2024-07-01,Alberta,8,Part-time,185.0
+2024-10-01,Alberta,8,Part-time,308.33333333333337
+2024-01-01,Alberta,8,"Type of work, all types",32.919332654236996
+2024-04-01,Alberta,8,"Type of work, all types",17.10625673885737
+2024-07-01,Alberta,8,"Type of work, all types",52.861339442058004
+2024-10-01,Alberta,8,"Type of work, all types",2812.9745022668044
+2024-01-01,Alberta,9,Full-time,125.9268543127755
+2024-04-01,Alberta,9,Full-time,106.82847521185195
+2024-07-01,Alberta,9,Full-time,109.66576903747422
+2024-10-01,Alberta,9,Full-time,2253.887074893176
+2024-01-01,Alberta,9,Part-time,-0.728240813953941
+2024-04-01,Alberta,9,Part-time,-0.8386643178484348
+2024-07-01,Alberta,9,Part-time,-0.8329685730350843
+2024-10-01,Alberta,9,Part-time,1.7190385066808602
+2024-01-01,Alberta,9,"Type of work, all types",64.30983427891715
+2024-04-01,Alberta,9,"Type of work, all types",50.08167220222169
+2024-07-01,Alberta,9,"Type of work, all types",58.14277325000441
+2024-10-01,Alberta,9,"Type of work, all types",2329.339511310981
+2024-01-01,Alberta,101,Full-time,687.4461848956482
+2024-04-01,Alberta,101,Full-time,2215.986066819351
+2024-07-01,Alberta,101,Full-time,2613.81648597729
+2024-10-01,Alberta,101,Full-time,80660.45450635503
+2024-01-01,Alberta,101,Part-time,345.1221799703478
+2024-04-01,Alberta,101,Part-time,354.86928012249444
+2024-07-01,Alberta,101,Part-time,369.0428256237987
+2024-10-01,Alberta,101,Part-time,17471.671307092325
+2024-01-01,Alberta,101,"Type of work, all types",644.8875488917784
+2024-04-01,Alberta,101,"Type of work, all types",631.669325041236
+2024-07-01,Alberta,101,"Type of work, all types",847.744161388358
+2024-10-01,Alberta,101,"Type of work, all types",95530.11439180163
+2024-01-01,British Columbia,0,Full-time,7.366735343436872
+2024-04-01,British Columbia,0,Full-time,8.796171514713667
+2024-07-01,British Columbia,0,Full-time,8.69073902607668
+2024-10-01,British Columbia,0,Full-time,226.56360886636048
+2024-01-01,British Columbia,0,Part-time,4.999957921164324
+2024-04-01,British Columbia,0,Part-time,4.9999579213344605
+2024-07-01,British Columbia,0,Part-time,4.999957921334458
+2024-10-01,British Columbia,0,Part-time,9.99994259932966
+2024-01-01,British Columbia,0,"Type of work, all types",7.366735343436872
+2024-04-01,British Columbia,0,"Type of work, all types",8.796171514713667
+2024-07-01,British Columbia,0,"Type of work, all types",8.69073902607668
+2024-10-01,British Columbia,0,"Type of work, all types",226.56360886636048
+2024-01-01,British Columbia,1,Full-time,470.37015304995384
+2024-04-01,British Columbia,1,Full-time,409.237167322778
+2024-07-01,British Columbia,1,Full-time,413.9791814870718
+2024-10-01,British Columbia,1,Full-time,12701.06660889628
+2024-01-01,British Columbia,1,Part-time,-8.388165809433758
+2024-04-01,British Columbia,1,Part-time,-30.70125417000468
+2024-07-01,British Columbia,1,Part-time,-26.947787079245586
+2024-10-01,British Columbia,1,Part-time,1676.962704645153
+2024-01-01,British Columbia,1,"Type of work, all types",565.1646724805078
+2024-04-01,British Columbia,1,"Type of work, all types",422.9787029857205
+2024-07-01,British Columbia,1,"Type of work, all types",436.1732260942661
+2024-10-01,British Columbia,1,"Type of work, all types",14261.89568489339
+2024-01-01,British Columbia,2,Full-time,458.85809624996364
+2024-04-01,British Columbia,2,Full-time,333.32416897932313
+2024-07-01,British Columbia,2,Full-time,350.30280104584557
+2024-10-01,British Columbia,2,Full-time,9759.218533131228
+2024-01-01,British Columbia,2,Part-time,0.0
+2024-04-01,British Columbia,2,Part-time,0.0
+2024-07-01,British Columbia,2,Part-time,0.0
+2024-10-01,British Columbia,2,Part-time,0.0
+2024-01-01,British Columbia,2,"Type of work, all types",484.5720587845226
+2024-04-01,British Columbia,2,"Type of work, all types",328.2286640931523
+2024-07-01,British Columbia,2,"Type of work, all types",350.0577467401757
+2024-10-01,British Columbia,2,"Type of work, all types",10013.342528941634
+2024-01-01,British Columbia,3,Full-time,54.73404743670507
+2024-04-01,British Columbia,3,Full-time,52.26168562500579
+2024-07-01,British Columbia,3,Full-time,52.41570637592869
+2024-10-01,British Columbia,3,Full-time,5314.530985745676
+2024-01-01,British Columbia,3,Part-time,209.45400541683708
+2024-04-01,British Columbia,3,Part-time,176.7255379216421
+2024-07-01,British Columbia,3,Part-time,178.77875765227537
+2024-10-01,British Columbia,3,Part-time,5084.632339606749
+2024-01-01,British Columbia,3,"Type of work, all types",234.60855205051882
+2024-04-01,British Columbia,3,"Type of work, all types",235.40709434834102
+2024-07-01,British Columbia,3,"Type of work, all types",235.68317705891005
+2024-10-01,British Columbia,3,"Type of work, all types",10273.894772717465
+2024-01-01,British Columbia,4,Full-time,54.51215096016108
+2024-04-01,British Columbia,4,Full-time,49.32788080132797
+2024-07-01,British Columbia,4,Full-time,46.08758291205828
+2024-10-01,British Columbia,4,Full-time,7811.303371277879
+2024-01-01,British Columbia,4,Part-time,18.12559942426799
+2024-04-01,British Columbia,4,Part-time,18.336317479190306
+2024-07-01,British Columbia,4,Part-time,18.568237494695687
+2024-10-01,British Columbia,4,Part-time,4890.10846335032
+2024-01-01,British Columbia,4,"Type of work, all types",19.68622694543683
+2024-04-01,British Columbia,4,"Type of work, all types",23.573626638062645
+2024-07-01,British Columbia,4,"Type of work, all types",17.685460770322447
+2024-10-01,British Columbia,4,"Type of work, all types",12639.62333265813
+2024-01-01,British Columbia,5,Full-time,167.38064107713103
+2024-04-01,British Columbia,5,Full-time,85.60302819920686
+2024-07-01,British Columbia,5,Full-time,94.39052245205212
+2024-10-01,British Columbia,5,Full-time,3054.661896181815
+2024-01-01,British Columbia,5,Part-time,57.548277472391874
+2024-04-01,British Columbia,5,Part-time,89.64767523014154
+2024-07-01,British Columbia,5,Part-time,92.53464075949236
+2024-10-01,British Columbia,5,Part-time,1086.8578834480277
+2024-01-01,British Columbia,5,"Type of work, all types",170.7248417750559
+2024-04-01,British Columbia,5,"Type of work, all types",102.66046359616494
+2024-07-01,British Columbia,5,"Type of work, all types",110.948144844165
+2024-10-01,British Columbia,5,"Type of work, all types",3469.00967399729
+2024-01-01,British Columbia,6,Full-time,701.092474727584
+2024-04-01,British Columbia,6,Full-time,986.417849603195
+2024-07-01,British Columbia,6,Full-time,1193.4892342827065
+2024-10-01,British Columbia,6,Full-time,37941.590794958065
+2024-01-01,British Columbia,6,Part-time,2.9163538995662748
+2024-04-01,British Columbia,6,Part-time,310.7350646241232
+2024-07-01,British Columbia,6,Part-time,523.5049558878429
+2024-10-01,British Columbia,6,Part-time,19200.44518131546
+2024-01-01,British Columbia,6,"Type of work, all types",875.2266964208447
+2024-04-01,British Columbia,6,"Type of work, all types",1320.175572669996
+2024-07-01,British Columbia,6,"Type of work, all types",1675.1113336081726
+2024-10-01,British Columbia,6,"Type of work, all types",58947.68174542682
+2024-01-01,British Columbia,7,Full-time,1012.846271606305
+2024-04-01,British Columbia,7,Full-time,673.7521406312815
+2024-07-01,British Columbia,7,Full-time,741.5214853891096
+2024-10-01,British Columbia,7,Full-time,26480.99762681232
+2024-01-01,British Columbia,7,Part-time,26.012414863993854
+2024-04-01,British Columbia,7,Part-time,35.724590109810734
+2024-07-01,British Columbia,7,Part-time,35.55942654669742
+2024-10-01,British Columbia,7,Part-time,2838.4932383206374
+2024-01-01,British Columbia,7,"Type of work, all types",1032.1210110514658
+2024-04-01,British Columbia,7,"Type of work, all types",726.7293935028373
+2024-07-01,British Columbia,7,"Type of work, all types",798.0935321885906
+2024-10-01,British Columbia,7,"Type of work, all types",29036.21510298141
+2024-01-01,British Columbia,8,Full-time,76.21131493467328
+2024-04-01,British Columbia,8,Full-time,-96.15192453868835
+2024-07-01,British Columbia,8,Full-time,-33.72904794518589
+2024-10-01,British Columbia,8,Full-time,3551.9446797177748
+2024-01-01,British Columbia,8,Part-time,430.0
+2024-04-01,British Columbia,8,Part-time,430.0
+2024-07-01,British Columbia,8,Part-time,430.0
+2024-10-01,British Columbia,8,Part-time,716.6666666666667
+2024-01-01,British Columbia,8,"Type of work, all types",77.47178381875801
+2024-04-01,British Columbia,8,"Type of work, all types",-119.23869896642204
+2024-07-01,British Columbia,8,"Type of work, all types",-44.02253429245533
+2024-10-01,British Columbia,8,"Type of work, all types",3805.33450560686
+2024-01-01,British Columbia,9,Full-time,412.46597169790175
+2024-04-01,British Columbia,9,Full-time,169.68158830001576
+2024-07-01,British Columbia,9,Full-time,197.18452234201362
+2024-10-01,British Columbia,9,Full-time,4146.105935111344
+2024-01-01,British Columbia,9,Part-time,11.036354052924963
+2024-04-01,British Columbia,9,Part-time,11.057551943386251
+2024-07-01,British Columbia,9,Part-time,11.056632268780108
+2024-10-01,British Columbia,9,Part-time,277.54441019046493
+2024-01-01,British Columbia,9,"Type of work, all types",397.19763592397294
+2024-04-01,British Columbia,9,"Type of work, all types",160.7925101196134
+2024-07-01,British Columbia,9,"Type of work, all types",186.839280808445
+2024-10-01,British Columbia,9,"Type of work, all types",4240.354462712693
+2024-01-01,British Columbia,101,Full-time,3870.38953737263
+2024-04-01,British Columbia,101,Full-time,2949.569927415656
+2024-07-01,British Columbia,101,Full-time,3036.37705912578
+2024-10-01,British Columbia,101,Full-time,107151.72134684444
+2024-01-01,British Columbia,101,Part-time,375.5044055266644
+2024-04-01,British Columbia,101,Part-time,-104.66823573566319
+2024-07-01,British Columbia,101,Part-time,7.172816464491888
+2024-10-01,British Columbia,101,Part-time,29845.297492150938
+2024-01-01,British Columbia,101,"Type of work, all types",4698.196885541838
+2024-04-01,British Columbia,101,"Type of work, all types",3293.1667986641933
+2024-07-01,British Columbia,101,"Type of work, all types",3429.319051757717
+2024-10-01,British Columbia,101,"Type of work, all types",138831.80928437473
+2024-01-01,Canada,0,Full-time,17.28402430295381
+2024-04-01,Canada,0,Full-time,14.023729531301866
+2024-07-01,Canada,0,Full-time,16.221470991847927
+2024-10-01,Canada,0,Full-time,1193.0323471973184
+2024-01-01,Canada,0,Part-time,0.0
+2024-04-01,Canada,0,Part-time,0.0
+2024-07-01,Canada,0,Part-time,0.0
+2024-10-01,Canada,0,Part-time,0.0
+2024-01-01,Canada,0,"Type of work, all types",10.417098568932346
+2024-04-01,Canada,0,"Type of work, all types",11.247834392073333
+2024-07-01,Canada,0,"Type of work, all types",10.553501279070602
+2024-10-01,Canada,0,"Type of work, all types",1201.1762347114595
+2024-01-01,Canada,1,Full-time,1236.2240095316993
+2024-04-01,Canada,1,Full-time,2408.6078534961607
+2024-07-01,Canada,1,Full-time,2988.447869004452
+2024-10-01,Canada,1,Full-time,106743.42016950413
+2024-01-01,Canada,1,Part-time,285.12619458364134
+2024-04-01,Canada,1,Part-time,309.1444986242517
+2024-07-01,Canada,1,Part-time,310.69990564509607
+2024-10-01,Canada,1,Part-time,11889.461553600915
+2024-01-01,Canada,1,"Type of work, all types",1225.0840160631487
+2024-04-01,Canada,1,"Type of work, all types",2496.957298234369
+2024-07-01,Canada,1,"Type of work, all types",3157.826557818289
+2024-10-01,Canada,1,"Type of work, all types",121741.85198907871
+2024-01-01,Canada,2,Full-time,1583.183288993856
+2024-04-01,Canada,2,Full-time,1855.197100820812
+2024-07-01,Canada,2,Full-time,2589.9488138232855
+2024-10-01,Canada,2,Full-time,73804.74792475239
+2024-01-01,Canada,2,Part-time,18.98897622301925
+2024-04-01,Canada,2,Part-time,13.164709429817577
+2024-07-01,Canada,2,Part-time,11.532430108859124
+2024-10-01,Canada,2,Part-time,1076.1789485781073
+2024-01-01,Canada,2,"Type of work, all types",3501.902926292896
+2024-04-01,Canada,2,"Type of work, all types",2139.2024981202976
+2024-07-01,Canada,2,"Type of work, all types",2334.0360376190642
+2024-10-01,Canada,2,"Type of work, all types",68324.9851936257
+2024-01-01,Canada,3,Full-time,-674.239783549785
+2024-04-01,Canada,3,Full-time,-1003.4137994080197
+2024-07-01,Canada,3,Full-time,-794.1544149974889
+2024-10-01,Canada,3,Full-time,66788.44271076607
+2024-01-01,Canada,3,Part-time,-2112.040413109028
+2024-04-01,Canada,3,Part-time,-2686.4808339402425
+2024-07-01,Canada,3,Part-time,-2596.3425774718266
+2024-10-01,Canada,3,Part-time,42111.10221664527
+2024-01-01,Canada,3,"Type of work, all types",-2299.5047456923803
+2024-04-01,Canada,3,"Type of work, all types",-3697.018222587123
+2024-07-01,Canada,3,"Type of work, all types",-3436.6090142232524
+2024-10-01,Canada,3,"Type of work, all types",108906.60419336322
+2024-01-01,Canada,4,Full-time,-33.24730407358879
+2024-04-01,Canada,4,Full-time,-95.02044611004723
+2024-07-01,Canada,4,Full-time,-5.896786983429536
+2024-10-01,Canada,4,Full-time,45617.48375105423
+2024-01-01,Canada,4,Part-time,-85.91697725265067
+2024-04-01,Canada,4,Part-time,-93.40357577379862
+2024-07-01,Canada,4,Part-time,-30.150880393917006
+2024-10-01,Canada,4,Part-time,25520.270178404102
+2024-01-01,Canada,4,"Type of work, all types",365.502437372686
+2024-04-01,Canada,4,"Type of work, all types",29.781564163662097
+2024-07-01,Canada,4,"Type of work, all types",96.94023872441323
+2024-10-01,Canada,4,"Type of work, all types",71799.76578444478
+2024-01-01,Canada,5,Full-time,403.5449933880964
+2024-04-01,Canada,5,Full-time,311.1994844079312
+2024-07-01,Canada,5,Full-time,317.93780883400126
+2024-10-01,Canada,5,Full-time,10832.030083458541
+2024-01-01,Canada,5,Part-time,231.37583495561012
+2024-04-01,Canada,5,Part-time,293.21217485709843
+2024-07-01,Canada,5,Part-time,310.336131984341
+2024-10-01,Canada,5,Part-time,5417.728880809732
+2024-01-01,Canada,5,"Type of work, all types",471.69107685909626
+2024-04-01,Canada,5,"Type of work, all types",471.36534646307456
+2024-07-01,Canada,5,"Type of work, all types",471.3668887041482
+2024-10-01,Canada,5,"Type of work, all types",16233.321281294691
+2024-01-01,Canada,6,Full-time,2002.509721091541
+2024-04-01,Canada,6,Full-time,5676.975168088587
+2024-07-01,Canada,6,Full-time,5874.85445657471
+2024-10-01,Canada,6,Full-time,223161.88323110336
+2024-01-01,Canada,6,Part-time,493.63183376010966
+2024-04-01,Canada,6,Part-time,1960.666313720121
+2024-07-01,Canada,6,Part-time,3013.99261097644
+2024-10-01,Canada,6,Part-time,123185.58451094803
+2024-01-01,Canada,6,"Type of work, all types",3001.069653291117
+2024-04-01,Canada,6,"Type of work, all types",7822.777172208909
+2024-07-01,Canada,6,"Type of work, all types",8256.609349399992
+2024-10-01,Canada,6,"Type of work, all types",357865.2815231439
+2024-01-01,Canada,7,Full-time,4005.4463342574636
+2024-04-01,Canada,7,Full-time,2389.917159839887
+2024-07-01,Canada,7,Full-time,2502.0575448655654
+2024-10-01,Canada,7,Full-time,149686.84828326706
+2024-01-01,Canada,7,Part-time,236.60797284609316
+2024-04-01,Canada,7,Part-time,415.13006345639343
+2024-07-01,Canada,7,Part-time,542.812210620478
+2024-10-01,Canada,7,Part-time,16277.395013081801
+2024-01-01,Canada,7,"Type of work, all types",4603.233117812382
+2024-04-01,Canada,7,"Type of work, all types",2760.0948923011733
+2024-07-01,Canada,7,"Type of work, all types",2884.5602064280274
+2024-10-01,Canada,7,"Type of work, all types",161698.83671399142
+2024-01-01,Canada,8,Full-time,-182.73824224644522
+2024-04-01,Canada,8,Full-time,-222.89512596799003
+2024-07-01,Canada,8,Full-time,-112.45263578295135
+2024-10-01,Canada,8,Full-time,16573.675108342395
+2024-01-01,Canada,8,Part-time,45.01543401355411
+2024-04-01,Canada,8,Part-time,46.41843122117457
+2024-07-01,Canada,8,Part-time,56.44044824010782
+2024-10-01,Canada,8,Part-time,2115.309099917258
+2024-01-01,Canada,8,"Type of work, all types",34.69042788661591
+2024-04-01,Canada,8,"Type of work, all types",-159.1677391673081
+2024-07-01,Canada,8,"Type of work, all types",-152.29768616840033
+2024-10-01,Canada,8,"Type of work, all types",19039.757813303775
+2024-01-01,Canada,9,Full-time,2803.989738077238
+2024-04-01,Canada,9,Full-time,1554.1559207074538
+2024-07-01,Canada,9,Full-time,1667.9669564162405
+2024-10-01,Canada,9,Full-time,41273.684114617965
+2024-01-01,Canada,9,Part-time,18.8654939416613
+2024-04-01,Canada,9,Part-time,18.594074898507884
+2024-07-01,Canada,9,Part-time,18.59487906174712
+2024-10-01,Canada,9,Part-time,1786.0933227414757
+2024-01-01,Canada,9,"Type of work, all types",2795.7929056234934
+2024-04-01,Canada,9,"Type of work, all types",1604.7279979227192
+2024-07-01,Canada,9,"Type of work, all types",1707.1171590260706
+2024-10-01,Canada,9,"Type of work, all types",42980.45373580596
+2024-01-01,Canada,101,Full-time,11530.614189948275
+2024-04-01,Canada,101,Full-time,21452.12821174579
+2024-07-01,Canada,101,Full-time,21113.681424550996
+2024-10-01,Canada,101,Full-time,829804.7597717813
+2024-01-01,Canada,101,Part-time,1363.2309777976916
+2024-04-01,Canada,101,Part-time,4322.722289552811
+2024-07-01,Canada,101,Part-time,5511.913617607965
+2024-10-01,Canada,101,Part-time,240875.6317973335
+2024-01-01,Canada,101,"Type of work, all types",13353.394128965461
+2024-04-01,Canada,101,"Type of work, all types",26836.895201011386
+2024-07-01,Canada,101,"Type of work, all types",26024.14487341644
+2024-10-01,Canada,101,"Type of work, all types",1095592.7033374198
+2024-01-01,Manitoba,0,Full-time,3.339230561369426
+2024-04-01,Manitoba,0,Full-time,2.7135114907564564
+2024-07-01,Manitoba,0,Full-time,2.6932792124079357
+2024-10-01,Manitoba,0,Full-time,-2.017071297345069
+2024-01-01,Manitoba,0,"Type of work, all types",3.975260723939371
+2024-04-01,Manitoba,0,"Type of work, all types",3.9689157119956304
+2024-07-01,Manitoba,0,"Type of work, all types",3.9703784328945164
+2024-10-01,Manitoba,0,"Type of work, all types",1.1223175114743213
+2024-01-01,Manitoba,1,Full-time,75.40167601833939
+2024-04-01,Manitoba,1,Full-time,55.698152432771764
+2024-07-01,Manitoba,1,Full-time,58.5934514858337
+2024-10-01,Manitoba,1,Full-time,2532.363769177
+2024-01-01,Manitoba,1,Part-time,10.458746397558228
+2024-04-01,Manitoba,1,Part-time,16.893130375552374
+2024-07-01,Manitoba,1,Part-time,16.425010016347347
+2024-10-01,Manitoba,1,Part-time,388.55066583053156
+2024-01-01,Manitoba,1,"Type of work, all types",70.60127561504646
+2024-04-01,Manitoba,1,"Type of work, all types",87.27962738775335
+2024-07-01,Manitoba,1,"Type of work, all types",81.29971544109242
+2024-10-01,Manitoba,1,"Type of work, all types",3249.363969310165
+2024-01-01,Manitoba,2,Full-time,18.74776008513936
+2024-04-01,Manitoba,2,Full-time,31.906314993619556
+2024-07-01,Manitoba,2,Full-time,29.62380114829515
+2024-10-01,Manitoba,2,Full-time,945.4645070856243
+2024-01-01,Manitoba,2,Part-time,-0.5689536849987927
+2024-04-01,Manitoba,2,Part-time,-0.30594773176625606
+2024-07-01,Manitoba,2,Part-time,-0.3408520004819391
+2024-10-01,Manitoba,2,Part-time,0.8222478300756322
+2024-01-01,Manitoba,2,"Type of work, all types",21.419376185925955
+2024-04-01,Manitoba,2,"Type of work, all types",38.61349958269241
+2024-07-01,Manitoba,2,"Type of work, all types",35.50085818177493
+2024-10-01,Manitoba,2,"Type of work, all types",933.1670305715908
+2024-01-01,Manitoba,3,Full-time,42.25036529963043
+2024-04-01,Manitoba,3,Full-time,72.99684413849106
+2024-07-01,Manitoba,3,Full-time,74.37203379255098
+2024-10-01,Manitoba,3,Full-time,2393.3452994902473
+2024-01-01,Manitoba,3,Part-time,64.10267657089321
+2024-04-01,Manitoba,3,Part-time,77.76805743574462
+2024-07-01,Manitoba,3,Part-time,80.16137565511774
+2024-10-01,Manitoba,3,Part-time,2608.391501597943
+2024-01-01,Manitoba,3,"Type of work, all types",2.754881875563683
+2024-04-01,Manitoba,3,"Type of work, all types",190.1431131411553
+2024-07-01,Manitoba,3,"Type of work, all types",140.03218635346457
+2024-10-01,Manitoba,3,"Type of work, all types",5085.294789122961
+2024-01-01,Manitoba,4,Full-time,16.83829160827372
+2024-04-01,Manitoba,4,Full-time,50.85498450230614
+2024-07-01,Manitoba,4,Full-time,46.43148673866149
+2024-10-01,Manitoba,4,Full-time,1863.7759137042774
+2024-01-01,Manitoba,4,Part-time,31.285363997489867
+2024-04-01,Manitoba,4,Part-time,59.0893668580235
+2024-07-01,Manitoba,4,Part-time,56.92028003032515
+2024-10-01,Manitoba,4,Part-time,1629.9089035866525
+2024-01-01,Manitoba,4,"Type of work, all types",101.54246393269466
+2024-04-01,Manitoba,4,"Type of work, all types",107.16516575180574
+2024-07-01,Manitoba,4,"Type of work, all types",102.93122702023729
+2024-10-01,Manitoba,4,"Type of work, all types",4004.152234334617
+2024-01-01,Manitoba,5,Full-time,14.672939093726555
+2024-04-01,Manitoba,5,Full-time,22.275688838721386
+2024-07-01,Manitoba,5,Full-time,21.040955856746102
+2024-10-01,Manitoba,5,Full-time,434.41825255354195
+2024-01-01,Manitoba,5,Part-time,13.148067553204456
+2024-04-01,Manitoba,5,Part-time,15.459756217942234
+2024-07-01,Manitoba,5,Part-time,15.358101558306169
+2024-10-01,Manitoba,5,Part-time,139.05156308667517
+2024-01-01,Manitoba,5,"Type of work, all types",12.30913985003718
+2024-04-01,Manitoba,5,"Type of work, all types",17.519705032088623
+2024-07-01,Manitoba,5,"Type of work, all types",17.35793219440489
+2024-10-01,Manitoba,5,"Type of work, all types",623.7121980374384
+2024-01-01,Manitoba,6,Full-time,113.86760914075549
+2024-04-01,Manitoba,6,Full-time,107.28968332085465
+2024-07-01,Manitoba,6,Full-time,106.07653962840423
+2024-10-01,Manitoba,6,Full-time,4844.064577964498
+2024-01-01,Manitoba,6,Part-time,75.97401098309291
+2024-04-01,Manitoba,6,Part-time,153.10893920857376
+2024-07-01,Manitoba,6,Part-time,147.18004317077873
+2024-10-01,Manitoba,6,Part-time,3061.4208111233943
+2024-01-01,Manitoba,6,"Type of work, all types",86.45580712057324
+2024-04-01,Manitoba,6,"Type of work, all types",245.8203167544388
+2024-07-01,Manitoba,6,"Type of work, all types",235.44090332763406
+2024-10-01,Manitoba,6,"Type of work, all types",8595.876380974365
+2024-01-01,Manitoba,7,Full-time,161.02213045791655
+2024-04-01,Manitoba,7,Full-time,116.9172195435408
+2024-07-01,Manitoba,7,Full-time,126.10959849287549
+2024-10-01,Manitoba,7,Full-time,6545.561971890819
+2024-01-01,Manitoba,7,Part-time,28.308056527718662
+2024-04-01,Manitoba,7,Part-time,28.301163603175286
+2024-07-01,Manitoba,7,Part-time,28.30130284775463
+2024-10-01,Manitoba,7,Part-time,616.8809629179071
+2024-01-01,Manitoba,7,"Type of work, all types",177.8407278268042
+2024-04-01,Manitoba,7,"Type of work, all types",122.40318055892044
+2024-07-01,Manitoba,7,"Type of work, all types",138.8604332411694
+2024-10-01,Manitoba,7,"Type of work, all types",7146.8880902071705
+2024-01-01,Manitoba,8,Full-time,33.337830394603415
+2024-04-01,Manitoba,8,Full-time,41.54322321750398
+2024-07-01,Manitoba,8,Full-time,41.199626006293904
+2024-10-01,Manitoba,8,Full-time,728.5273706898512
+2024-01-01,Manitoba,8,Part-time,0.0
+2024-04-01,Manitoba,8,Part-time,0.0
+2024-07-01,Manitoba,8,Part-time,0.0
+2024-10-01,Manitoba,8,Part-time,0.0
+2024-01-01,Manitoba,8,"Type of work, all types",20.689455234142173
+2024-04-01,Manitoba,8,"Type of work, all types",21.037304273768857
+2024-07-01,Manitoba,8,"Type of work, all types",21.028672627038233
+2024-10-01,Manitoba,8,"Type of work, all types",676.8800695887453
+2024-01-01,Manitoba,9,Full-time,60.219218801624834
+2024-04-01,Manitoba,9,Full-time,40.24731402591574
+2024-07-01,Manitoba,9,Full-time,41.490051763936115
+2024-10-01,Manitoba,9,Full-time,1047.0029417881979
+2024-01-01,Manitoba,9,Part-time,-1.2661723655592718
+2024-04-01,Manitoba,9,Part-time,-1.428619769032287
+2024-07-01,Manitoba,9,Part-time,-1.4208513082947305
+2024-10-01,Manitoba,9,Part-time,2.385600657669447
+2024-01-01,Manitoba,9,"Type of work, all types",64.1027861041257
+2024-04-01,Manitoba,9,"Type of work, all types",43.96878694413239
+2024-07-01,Manitoba,9,"Type of work, all types",45.224254850193134
+2024-10-01,Manitoba,9,"Type of work, all types",1080.589887639666
+2024-01-01,Manitoba,101,Full-time,-293.05753212814966
+2024-04-01,Manitoba,101,Full-time,-125.05079900061776
+2024-07-01,Manitoba,101,Full-time,31.727573907916636
+2024-10-01,Manitoba,101,Full-time,22145.422300053448
+2024-01-01,Manitoba,101,Part-time,50.945877993248786
+2024-04-01,Manitoba,101,Part-time,302.5050107524274
+2024-07-01,Manitoba,101,Part-time,300.62657203592323
+2024-10-01,Manitoba,101,Part-time,10120.82789122042
+2024-01-01,Manitoba,101,"Type of work, all types",-177.03257135818103
+2024-04-01,Manitoba,101,"Type of work, all types",-138.4944272563668
+2024-07-01,Manitoba,101,"Type of work, all types",-11.777528172556657
+2024-10-01,Manitoba,101,"Type of work, all types",30993.10113680389
+2024-01-01,New Brunswick,0,Full-time,-10.00000000005882
+2024-04-01,New Brunswick,0,Full-time,-10.00000000005882
+2024-07-01,New Brunswick,0,Full-time,-10.000000000058822
+2024-10-01,New Brunswick,0,Full-time,-10.00000000005882
+2024-01-01,New Brunswick,0,"Type of work, all types",-10.00000000005882
+2024-04-01,New Brunswick,0,"Type of work, all types",-10.00000000005882
+2024-07-01,New Brunswick,0,"Type of work, all types",-10.000000000058822
+2024-10-01,New Brunswick,0,"Type of work, all types",-10.00000000005882
+2024-01-01,New Brunswick,1,Full-time,32.8026683605555
+2024-04-01,New Brunswick,1,Full-time,29.502147744278577
+2024-07-01,New Brunswick,1,Full-time,29.81046702120137
+2024-10-01,New Brunswick,1,Full-time,985.3093967176344
+2024-01-01,New Brunswick,1,Part-time,0.7734373421924801
+2024-04-01,New Brunswick,1,Part-time,5.529880613507814
+2024-07-01,New Brunswick,1,Part-time,2.8933382855141847
+2024-10-01,New Brunswick,1,Part-time,19.724405221315877
+2024-01-01,New Brunswick,1,"Type of work, all types",38.808918352703984
+2024-04-01,New Brunswick,1,"Type of work, all types",34.22087479351344
+2024-07-01,New Brunswick,1,"Type of work, all types",34.60015896091349
+2024-10-01,New Brunswick,1,"Type of work, all types",1139.4577165332273
+2024-01-01,New Brunswick,2,Full-time,23.677090780780418
+2024-04-01,New Brunswick,2,Full-time,12.563395813625934
+2024-07-01,New Brunswick,2,Full-time,13.369519386576043
+2024-10-01,New Brunswick,2,Full-time,586.0996713229448
+2024-01-01,New Brunswick,2,Part-time,0.0
+2024-04-01,New Brunswick,2,Part-time,0.0
+2024-07-01,New Brunswick,2,Part-time,0.0
+2024-10-01,New Brunswick,2,Part-time,0.0
+2024-01-01,New Brunswick,2,"Type of work, all types",24.182949810709204
+2024-04-01,New Brunswick,2,"Type of work, all types",12.262256272705752
+2024-07-01,New Brunswick,2,"Type of work, all types",13.180592603052443
+2024-10-01,New Brunswick,2,"Type of work, all types",588.1787730515657
+2024-01-01,New Brunswick,3,Full-time,-84.15133140504292
+2024-04-01,New Brunswick,3,Full-time,-180.4752559085742
+2024-07-01,New Brunswick,3,Full-time,-166.0118694146003
+2024-10-01,New Brunswick,3,Full-time,-1191.1316365132755
+2024-01-01,New Brunswick,3,Part-time,36.913585367610494
+2024-04-01,New Brunswick,3,Part-time,28.038822445995
+2024-07-01,New Brunswick,3,Part-time,28.832659744281536
+2024-10-01,New Brunswick,3,Part-time,316.49362349730393
+2024-01-01,New Brunswick,3,"Type of work, all types",27.699048005147205
+2024-04-01,New Brunswick,3,"Type of work, all types",45.592457976709845
+2024-07-01,New Brunswick,3,"Type of work, all types",45.39574615118569
+2024-10-01,New Brunswick,3,"Type of work, all types",1948.0348711012275
+2024-01-01,New Brunswick,4,Full-time,23.420423302106087
+2024-04-01,New Brunswick,4,Full-time,31.182540809207993
+2024-07-01,New Brunswick,4,Full-time,30.20291497137549
+2024-10-01,New Brunswick,4,Full-time,925.5757594784684
+2024-01-01,New Brunswick,4,Part-time,23.483757786033337
+2024-04-01,New Brunswick,4,Part-time,29.889296418264017
+2024-07-01,New Brunswick,4,Part-time,29.463585299890887
+2024-10-01,New Brunswick,4,Part-time,275.065563446919
+2024-01-01,New Brunswick,4,"Type of work, all types",19.713816814347865
+2024-04-01,New Brunswick,4,"Type of work, all types",43.19076721471407
+2024-07-01,New Brunswick,4,"Type of work, all types",39.59921562364667
+2024-10-01,New Brunswick,4,"Type of work, all types",1434.1810175534486
+2024-01-01,New Brunswick,5,Full-time,144.9999127281901
+2024-04-01,New Brunswick,5,Full-time,144.99991272822803
+2024-07-01,New Brunswick,5,Full-time,144.99991272822803
+2024-10-01,New Brunswick,5,Full-time,289.99971860352446
+2024-01-01,New Brunswick,5,"Type of work, all types",194.8499260618645
+2024-04-01,New Brunswick,5,"Type of work, all types",201.09462780001974
+2024-07-01,New Brunswick,5,"Type of work, all types",202.40103973945625
+2024-10-01,New Brunswick,5,"Type of work, all types",367.68627802063304
+2024-01-01,New Brunswick,6,Full-time,14.101368352961849
+2024-04-01,New Brunswick,6,Full-time,126.0516559134315
+2024-07-01,New Brunswick,6,Full-time,105.67404730630295
+2024-10-01,New Brunswick,6,Full-time,3637.0129018184844
+2024-01-01,New Brunswick,6,Part-time,22.39814737008004
+2024-04-01,New Brunswick,6,Part-time,14.141831640242195
+2024-07-01,New Brunswick,6,Part-time,14.554685359768191
+2024-10-01,New Brunswick,6,Part-time,1341.9478684901355
+2024-01-01,New Brunswick,6,"Type of work, all types",-7.559161140901949
+2024-04-01,New Brunswick,6,"Type of work, all types",168.5647994832191
+2024-07-01,New Brunswick,6,"Type of work, all types",112.65763150221326
+2024-10-01,New Brunswick,6,"Type of work, all types",5162.236542266648
+2024-01-01,New Brunswick,7,Full-time,103.57106637373874
+2024-04-01,New Brunswick,7,Full-time,43.809651398333465
+2024-07-01,New Brunswick,7,Full-time,48.31813123138068
+2024-10-01,New Brunswick,7,Full-time,1990.6061262618111
+2024-01-01,New Brunswick,7,Part-time,6.819005508896822
+2024-04-01,New Brunswick,7,Part-time,6.867018398916903
+2024-07-01,New Brunswick,7,Part-time,6.864053502390117
+2024-10-01,New Brunswick,7,Part-time,81.15215998680932
+2024-01-01,New Brunswick,7,"Type of work, all types",101.50579003697067
+2024-04-01,New Brunswick,7,"Type of work, all types",40.27298561587897
+2024-07-01,New Brunswick,7,"Type of work, all types",45.17658398675588
+2024-10-01,New Brunswick,7,"Type of work, all types",1990.9871029551732
+2024-01-01,New Brunswick,8,Full-time,9.077317892044732
+2024-04-01,New Brunswick,8,Full-time,8.925624147272789
+2024-07-01,New Brunswick,8,Full-time,8.945834673513144
+2024-10-01,New Brunswick,8,Full-time,415.94770178721177
+2024-01-01,New Brunswick,8,Part-time,15.0
+2024-04-01,New Brunswick,8,Part-time,15.0
+2024-07-01,New Brunswick,8,Part-time,15.0
+2024-10-01,New Brunswick,8,Part-time,25.0
+2024-01-01,New Brunswick,8,"Type of work, all types",4.056158077716702
+2024-04-01,New Brunswick,8,"Type of work, all types",4.2107355177692725
+2024-07-01,New Brunswick,8,"Type of work, all types",4.241002599289993
+2024-10-01,New Brunswick,8,"Type of work, all types",366.25674938460185
+2024-01-01,New Brunswick,9,Full-time,5.894712604668598
+2024-04-01,New Brunswick,9,Full-time,5.255018328155308
+2024-07-01,New Brunswick,9,Full-time,4.610604823585792
+2024-10-01,New Brunswick,9,Full-time,865.949669802544
+2024-01-01,New Brunswick,9,Part-time,2.2075008707477285e-08
+2024-04-01,New Brunswick,9,Part-time,2.3198395135110196e-08
+2024-07-01,New Brunswick,9,Part-time,2.3410628947276108e-08
+2024-10-01,New Brunswick,9,Part-time,2.3451198549110154e-08
+2024-01-01,New Brunswick,9,"Type of work, all types",23.74124923175944
+2024-04-01,New Brunswick,9,"Type of work, all types",18.4204673257417
+2024-07-01,New Brunswick,9,"Type of work, all types",18.902945323286797
+2024-10-01,New Brunswick,9,"Type of work, all types",1011.0819950031132
+2024-01-01,New Brunswick,101,Full-time,107.0629821177522
+2024-04-01,New Brunswick,101,Full-time,49.07185204022757
+2024-07-01,New Brunswick,101,Full-time,106.43715480015314
+2024-10-01,New Brunswick,101,Full-time,10398.113160588326
+2024-01-01,New Brunswick,101,Part-time,62.63188399039643
+2024-04-01,New Brunswick,101,Part-time,40.1216868118764
+2024-07-01,New Brunswick,101,Part-time,42.07318844190994
+2024-10-01,New Brunswick,101,Part-time,2775.050789828363
+2024-01-01,New Brunswick,101,"Type of work, all types",6.587908222547867
+2024-04-01,New Brunswick,101,"Type of work, all types",-12.59213369434583
+2024-07-01,New Brunswick,101,"Type of work, all types",75.87324421313909
+2024-10-01,New Brunswick,101,"Type of work, all types",13121.44076761779
+2024-01-01,Newfoundland and Labrador,1,Full-time,8.690700685117406
+2024-04-01,Newfoundland and Labrador,1,Full-time,13.814207824971497
+2024-07-01,Newfoundland and Labrador,1,Full-time,14.322910943231637
+2024-10-01,Newfoundland and Labrador,1,Full-time,768.4993673645383
+2024-01-01,Newfoundland and Labrador,1,Part-time,1.5203571627518286
+2024-04-01,Newfoundland and Labrador,1,Part-time,6.7883994828462075
+2024-07-01,Newfoundland and Labrador,1,Part-time,6.106523894084998
+2024-10-01,Newfoundland and Labrador,1,Part-time,148.42242667326826
+2024-01-01,Newfoundland and Labrador,1,"Type of work, all types",8.070667429977021
+2024-04-01,Newfoundland and Labrador,1,"Type of work, all types",8.657519122727567
+2024-07-01,Newfoundland and Labrador,1,"Type of work, all types",8.664818758941593
+2024-10-01,Newfoundland and Labrador,1,"Type of work, all types",833.2573529406279
+2024-01-01,Newfoundland and Labrador,2,Full-time,6.834468427793155
+2024-04-01,Newfoundland and Labrador,2,Full-time,6.130614953962137
+2024-07-01,Newfoundland and Labrador,2,Full-time,6.213200094989983
+2024-10-01,Newfoundland and Labrador,2,Full-time,252.79283128960142
+2024-01-01,Newfoundland and Labrador,2,"Type of work, all types",13.90490649166405
+2024-04-01,Newfoundland and Labrador,2,"Type of work, all types",14.102896342170235
+2024-07-01,Newfoundland and Labrador,2,"Type of work, all types",14.10029721902692
+2024-10-01,Newfoundland and Labrador,2,"Type of work, all types",247.04021012472242
+2024-01-01,Newfoundland and Labrador,3,Full-time,13.403665959830448
+2024-04-01,Newfoundland and Labrador,3,Full-time,33.40874576544809
+2024-07-01,Newfoundland and Labrador,3,Full-time,33.957723338411625
+2024-10-01,Newfoundland and Labrador,3,Full-time,895.7036344668948
+2024-01-01,Newfoundland and Labrador,3,Part-time,41.72355250452574
+2024-04-01,Newfoundland and Labrador,3,Part-time,26.928347019449777
+2024-07-01,Newfoundland and Labrador,3,Part-time,28.02458101341268
+2024-10-01,Newfoundland and Labrador,3,Part-time,367.072460674769
+2024-01-01,Newfoundland and Labrador,3,"Type of work, all types",41.9185551843174
+2024-04-01,Newfoundland and Labrador,3,"Type of work, all types",25.899069217491135
+2024-07-01,Newfoundland and Labrador,3,"Type of work, all types",27.560166333370468
+2024-10-01,Newfoundland and Labrador,3,"Type of work, all types",1006.6087789284265
+2024-01-01,Newfoundland and Labrador,4,Full-time,6.203653356089461
+2024-04-01,Newfoundland and Labrador,4,Full-time,6.124559630010124
+2024-07-01,Newfoundland and Labrador,4,Full-time,6.133946956247108
+2024-10-01,Newfoundland and Labrador,4,Full-time,384.8741719585558
+2024-01-01,Newfoundland and Labrador,4,Part-time,-6.445479199075095
+2024-04-01,Newfoundland and Labrador,4,Part-time,-15.943246172671216
+2024-07-01,Newfoundland and Labrador,4,Part-time,-15.21582830464202
+2024-10-01,Newfoundland and Labrador,4,Part-time,48.81582969666404
+2024-01-01,Newfoundland and Labrador,4,"Type of work, all types",12.422702221368027
+2024-04-01,Newfoundland and Labrador,4,"Type of work, all types",15.46843763376409
+2024-07-01,Newfoundland and Labrador,4,"Type of work, all types",15.316971732950456
+2024-10-01,Newfoundland and Labrador,4,"Type of work, all types",598.680304140855
+2024-01-01,Newfoundland and Labrador,5,Full-time,0.0
+2024-04-01,Newfoundland and Labrador,5,Full-time,0.0
+2024-07-01,Newfoundland and Labrador,5,Full-time,0.0
+2024-10-01,Newfoundland and Labrador,5,Full-time,0.0
+2024-01-01,Newfoundland and Labrador,5,Part-time,-0.33580413068201304
+2024-04-01,Newfoundland and Labrador,5,Part-time,-0.4194888293065324
+2024-07-01,Newfoundland and Labrador,5,Part-time,-0.4098357106087856
+2024-10-01,Newfoundland and Labrador,5,Part-time,-1.2951953879228115
+2024-01-01,Newfoundland and Labrador,5,"Type of work, all types",9.86249663019419e-13
+2024-04-01,Newfoundland and Labrador,5,"Type of work, all types",9.866535746820354e-13
+2024-07-01,Newfoundland and Labrador,5,"Type of work, all types",9.86579765068012e-13
+2024-10-01,Newfoundland and Labrador,5,"Type of work, all types",9.865957854687773e-13
+2024-01-01,Newfoundland and Labrador,6,Full-time,38.05938979410587
+2024-04-01,Newfoundland and Labrador,6,Full-time,55.34432508628635
+2024-07-01,Newfoundland and Labrador,6,Full-time,51.35754993557886
+2024-10-01,Newfoundland and Labrador,6,Full-time,2065.697019065187
+2024-01-01,Newfoundland and Labrador,6,Part-time,24.128839824569468
+2024-04-01,Newfoundland and Labrador,6,Part-time,30.11223575995748
+2024-07-01,Newfoundland and Labrador,6,Part-time,29.761199140688003
+2024-10-01,Newfoundland and Labrador,6,Part-time,847.1988524433411
+2024-01-01,Newfoundland and Labrador,6,"Type of work, all types",238.26099968139488
+2024-04-01,Newfoundland and Labrador,6,"Type of work, all types",474.93712303175835
+2024-07-01,Newfoundland and Labrador,6,"Type of work, all types",227.19529534724327
+2024-10-01,Newfoundland and Labrador,6,"Type of work, all types",3913.570170285371
+2024-01-01,Newfoundland and Labrador,7,Full-time,30.904031764064
+2024-04-01,Newfoundland and Labrador,7,Full-time,48.025317520686045
+2024-07-01,Newfoundland and Labrador,7,Full-time,46.23646783242998
+2024-10-01,Newfoundland and Labrador,7,Full-time,1103.3289485590192
+2024-01-01,Newfoundland and Labrador,7,Part-time,1.0947092769868902
+2024-04-01,Newfoundland and Labrador,7,Part-time,1.1228744675050102
+2024-07-01,Newfoundland and Labrador,7,Part-time,1.126683067144278
+2024-10-01,Newfoundland and Labrador,7,Part-time,23.613752224721306
+2024-01-01,Newfoundland and Labrador,7,"Type of work, all types",30.64171904973125
+2024-04-01,Newfoundland and Labrador,7,"Type of work, all types",32.752533853450004
+2024-07-01,Newfoundland and Labrador,7,"Type of work, all types",32.59595157783938
+2024-10-01,Newfoundland and Labrador,7,"Type of work, all types",1275.095073875068
+2024-01-01,Newfoundland and Labrador,8,Full-time,0.0
+2024-04-01,Newfoundland and Labrador,8,Full-time,0.0
+2024-07-01,Newfoundland and Labrador,8,Full-time,0.0
+2024-10-01,Newfoundland and Labrador,8,Full-time,0.0
+2024-01-01,Newfoundland and Labrador,8,Part-time,0.0
+2024-04-01,Newfoundland and Labrador,8,Part-time,0.0
+2024-07-01,Newfoundland and Labrador,8,Part-time,0.0
+2024-10-01,Newfoundland and Labrador,8,Part-time,0.0
+2024-01-01,Newfoundland and Labrador,8,"Type of work, all types",0.0
+2024-04-01,Newfoundland and Labrador,8,"Type of work, all types",0.0
+2024-07-01,Newfoundland and Labrador,8,"Type of work, all types",0.0
+2024-10-01,Newfoundland and Labrador,8,"Type of work, all types",0.0
+2024-01-01,Newfoundland and Labrador,9,Full-time,5.172360944130872
+2024-04-01,Newfoundland and Labrador,9,Full-time,3.220099460059298
+2024-07-01,Newfoundland and Labrador,9,Full-time,3.27852348811095
+2024-10-01,Newfoundland and Labrador,9,Full-time,139.90726281813446
+2024-01-01,Newfoundland and Labrador,9,Part-time,0.0
+2024-04-01,Newfoundland and Labrador,9,Part-time,0.0
+2024-07-01,Newfoundland and Labrador,9,Part-time,0.0
+2024-10-01,Newfoundland and Labrador,9,Part-time,0.0
+2024-01-01,Newfoundland and Labrador,9,"Type of work, all types",17.424712539354516
+2024-04-01,Newfoundland and Labrador,9,"Type of work, all types",6.985581329915895
+2024-07-01,Newfoundland and Labrador,9,"Type of work, all types",8.365125087752723
+2024-10-01,Newfoundland and Labrador,9,"Type of work, all types",190.7288070587789
+2024-01-01,Newfoundland and Labrador,101,Full-time,72.0916252143416
+2024-04-01,Newfoundland and Labrador,101,Full-time,179.16790339254874
+2024-07-01,Newfoundland and Labrador,101,Full-time,158.72831543014888
+2024-10-01,Newfoundland and Labrador,101,Full-time,5304.453442628412
+2024-01-01,Newfoundland and Labrador,101,Part-time,58.37952938112801
+2024-04-01,Newfoundland and Labrador,101,Part-time,47.830487535032184
+2024-07-01,Newfoundland and Labrador,101,Part-time,48.37181496679196
+2024-10-01,Newfoundland and Labrador,101,Part-time,1811.4651829553668
+2024-01-01,Newfoundland and Labrador,101,"Type of work, all types",143.1322748912362
+2024-04-01,Newfoundland and Labrador,101,"Type of work, all types",184.98571209904878
+2024-07-01,Newfoundland and Labrador,101,"Type of work, all types",181.52546631118474
+2024-10-01,Newfoundland and Labrador,101,"Type of work, all types",6404.903647141649
+2024-01-01,Nova Scotia,0,Full-time,-0.8365047688754648
+2024-04-01,Nova Scotia,0,Full-time,-0.7803160546224663
+2024-07-01,Nova Scotia,0,Full-time,-0.7821642370617042
+2024-10-01,Nova Scotia,0,Full-time,-0.3839099767708048
+2024-01-01,Nova Scotia,0,"Type of work, all types",-0.8365047688754648
+2024-04-01,Nova Scotia,0,"Type of work, all types",-0.7803160546224663
+2024-07-01,Nova Scotia,0,"Type of work, all types",-0.7821642370617042
+2024-10-01,Nova Scotia,0,"Type of work, all types",-0.3839099767708048
+2024-01-01,Nova Scotia,1,Full-time,34.05837267491711
+2024-04-01,Nova Scotia,1,Full-time,23.225808954182586
+2024-07-01,Nova Scotia,1,Full-time,25.915555699347497
+2024-10-01,Nova Scotia,1,Full-time,1344.777142801877
+2024-01-01,Nova Scotia,1,Part-time,7.178374950805534
+2024-04-01,Nova Scotia,1,Part-time,4.393975170142003
+2024-07-01,Nova Scotia,1,Part-time,5.1039409681126795
+2024-10-01,Nova Scotia,1,Part-time,240.52839676193926
+2024-01-01,Nova Scotia,1,"Type of work, all types",27.967116322247563
+2024-04-01,Nova Scotia,1,"Type of work, all types",17.10165757035839
+2024-07-01,Nova Scotia,1,"Type of work, all types",16.915416213465246
+2024-10-01,Nova Scotia,1,"Type of work, all types",1388.9406887978944
+2024-01-01,Nova Scotia,2,Full-time,46.32774949935299
+2024-04-01,Nova Scotia,2,Full-time,29.176480861696298
+2024-07-01,Nova Scotia,2,Full-time,31.07919773793168
+2024-10-01,Nova Scotia,2,Full-time,953.5533913188922
+2024-01-01,Nova Scotia,2,"Type of work, all types",48.14367418644167
+2024-04-01,Nova Scotia,2,"Type of work, all types",29.24557785668629
+2024-07-01,Nova Scotia,2,"Type of work, all types",31.29936770199711
+2024-10-01,Nova Scotia,2,"Type of work, all types",970.4492632813208
+2024-01-01,Nova Scotia,3,Full-time,43.96640352401073
+2024-04-01,Nova Scotia,3,Full-time,46.58836756661704
+2024-07-01,Nova Scotia,3,Full-time,46.019006236319534
+2024-10-01,Nova Scotia,3,Full-time,3107.1768734684047
+2024-01-01,Nova Scotia,3,Part-time,19.026212988551976
+2024-04-01,Nova Scotia,3,Part-time,22.078605203965417
+2024-07-01,Nova Scotia,3,Part-time,21.998147235072906
+2024-10-01,Nova Scotia,3,Part-time,1442.6537041972883
+2024-01-01,Nova Scotia,3,"Type of work, all types",70.22478523851134
+2024-04-01,Nova Scotia,3,"Type of work, all types",74.74482020256642
+2024-07-01,Nova Scotia,3,"Type of work, all types",71.40645588495079
+2024-10-01,Nova Scotia,3,"Type of work, all types",4772.829784291911
+2024-01-01,Nova Scotia,4,Full-time,20.61102812404698
+2024-04-01,Nova Scotia,4,Full-time,55.738753486223374
+2024-07-01,Nova Scotia,4,Full-time,49.955667566728906
+2024-10-01,Nova Scotia,4,Full-time,1741.7944467507093
+2024-01-01,Nova Scotia,4,Part-time,44.1770978548534
+2024-04-01,Nova Scotia,4,Part-time,24.376680728322444
+2024-07-01,Nova Scotia,4,Part-time,26.232380852589436
+2024-10-01,Nova Scotia,4,Part-time,715.9635249324449
+2024-01-01,Nova Scotia,4,"Type of work, all types",88.72676500905186
+2024-04-01,Nova Scotia,4,"Type of work, all types",77.63834163237955
+2024-07-01,Nova Scotia,4,"Type of work, all types",78.83176545719053
+2024-10-01,Nova Scotia,4,"Type of work, all types",2404.963779730145
+2024-01-01,Nova Scotia,5,Full-time,4.432372414042428
+2024-04-01,Nova Scotia,5,Full-time,4.216436375973104
+2024-07-01,Nova Scotia,5,Full-time,4.2268094396658595
+2024-10-01,Nova Scotia,5,Full-time,104.22495517512277
+2024-01-01,Nova Scotia,5,"Type of work, all types",2.317878651209867
+2024-04-01,Nova Scotia,5,"Type of work, all types",1.8648266709413739
+2024-07-01,Nova Scotia,5,"Type of work, all types",1.869997062847028
+2024-10-01,Nova Scotia,5,"Type of work, all types",104.77601361258198
+2024-01-01,Nova Scotia,6,Full-time,81.2411985648483
+2024-04-01,Nova Scotia,6,Full-time,139.63907933642614
+2024-07-01,Nova Scotia,6,Full-time,130.37855836420593
+2024-10-01,Nova Scotia,6,Full-time,4420.370730868943
+2024-01-01,Nova Scotia,6,Part-time,22.589735313156325
+2024-04-01,Nova Scotia,6,Part-time,18.54439470908655
+2024-07-01,Nova Scotia,6,Part-time,18.64727107002481
+2024-10-01,Nova Scotia,6,Part-time,2294.835694276034
+2024-01-01,Nova Scotia,6,"Type of work, all types",102.46384983389
+2024-04-01,Nova Scotia,6,"Type of work, all types",176.72805619624114
+2024-07-01,Nova Scotia,6,"Type of work, all types",157.24622975700913
+2024-10-01,Nova Scotia,6,"Type of work, all types",6668.801555304363
+2024-01-01,Nova Scotia,7,Full-time,67.92684461917045
+2024-04-01,Nova Scotia,7,Full-time,57.62489684577429
+2024-07-01,Nova Scotia,7,Full-time,58.11228711120002
+2024-10-01,Nova Scotia,7,Full-time,3227.1150722006482
+2024-01-01,Nova Scotia,7,Part-time,20.446052453882857
+2024-04-01,Nova Scotia,7,Part-time,8.846608334600027
+2024-07-01,Nova Scotia,7,Part-time,10.247985071653048
+2024-10-01,Nova Scotia,7,Part-time,302.8106654790754
+2024-01-01,Nova Scotia,7,"Type of work, all types",91.13455368974356
+2024-04-01,Nova Scotia,7,"Type of work, all types",69.66279548411688
+2024-07-01,Nova Scotia,7,"Type of work, all types",82.02469059993605
+2024-10-01,Nova Scotia,7,"Type of work, all types",3241.947103850107
+2024-01-01,Nova Scotia,8,Full-time,12.636525251749985
+2024-04-01,Nova Scotia,8,Full-time,12.789976084067897
+2024-07-01,Nova Scotia,8,Full-time,12.81184757652899
+2024-10-01,Nova Scotia,8,Full-time,48.85807321147857
+2024-01-01,Nova Scotia,8,Part-time,25.0
+2024-04-01,Nova Scotia,8,Part-time,25.0
+2024-07-01,Nova Scotia,8,Part-time,25.0
+2024-10-01,Nova Scotia,8,Part-time,41.66666666666667
+2024-01-01,Nova Scotia,8,"Type of work, all types",-13.551735783652077
+2024-04-01,Nova Scotia,8,"Type of work, all types",-49.56879804973935
+2024-07-01,Nova Scotia,8,"Type of work, all types",-47.589518979393794
+2024-10-01,Nova Scotia,8,"Type of work, all types",90.95253133099328
+2024-01-01,Nova Scotia,9,Full-time,15.62357686813803
+2024-04-01,Nova Scotia,9,Full-time,19.655920611816484
+2024-07-01,Nova Scotia,9,Full-time,19.144788343881025
+2024-10-01,Nova Scotia,9,Full-time,1076.5041682050978
+2024-01-01,Nova Scotia,9,Part-time,-2.270926390132928
+2024-04-01,Nova Scotia,9,Part-time,-2.378778241810834
+2024-07-01,Nova Scotia,9,Part-time,-2.219750197817071
+2024-10-01,Nova Scotia,9,Part-time,28.44784983807743
+2024-01-01,Nova Scotia,9,"Type of work, all types",4.603716161574027
+2024-04-01,Nova Scotia,9,"Type of work, all types",25.182930229313452
+2024-07-01,Nova Scotia,9,"Type of work, all types",21.762800947817922
+2024-10-01,Nova Scotia,9,"Type of work, all types",1257.9326230399734
+2024-01-01,Nova Scotia,101,Full-time,33.12052178184683
+2024-04-01,Nova Scotia,101,Full-time,69.83982472874004
+2024-07-01,Nova Scotia,101,Full-time,125.69974464350051
+2024-10-01,Nova Scotia,101,Full-time,15634.024465388804
+2024-01-01,Nova Scotia,101,Part-time,20.637381988013686
+2024-04-01,Nova Scotia,101,Part-time,29.96512622007569
+2024-07-01,Nova Scotia,101,Part-time,41.55443486164688
+2024-10-01,Nova Scotia,101,Part-time,4529.1717686704005
+2024-01-01,Nova Scotia,101,"Type of work, all types",-408.51904285398666
+2024-04-01,Nova Scotia,101,"Type of work, all types",-647.8944516928976
+2024-07-01,Nova Scotia,101,"Type of work, all types",-591.9947792482465
+2024-10-01,Nova Scotia,101,"Type of work, all types",20123.115875870913
+2024-01-01,Nunavut,1,Full-time,2.175621380254519
+2024-04-01,Nunavut,1,Full-time,2.310750136747753
+2024-07-01,Nunavut,1,Full-time,2.309184014770607
+2024-10-01,Nunavut,1,Full-time,43.22564863759196
+2024-01-01,Nunavut,1,Part-time,0.0
+2024-04-01,Nunavut,1,Part-time,0.0
+2024-07-01,Nunavut,1,Part-time,0.0
+2024-10-01,Nunavut,1,Part-time,0.0
+2024-01-01,Nunavut,1,"Type of work, all types",1.9474274443948403
+2024-04-01,Nunavut,1,"Type of work, all types",2.11326020642669
+2024-07-01,Nunavut,1,"Type of work, all types",2.110751355184006
+2024-10-01,Nunavut,1,"Type of work, all types",44.04524530934684
+2024-01-01,Nunavut,2,Full-time,6.327846438616251e-05
+2024-04-01,Nunavut,2,Full-time,6.561036214939861e-05
+2024-07-01,Nunavut,2,Full-time,6.561040153713982e-05
+2024-10-01,Nunavut,2,Full-time,-0.007662400928963539
+2024-01-01,Nunavut,2,Part-time,0.0
+2024-04-01,Nunavut,2,Part-time,0.0
+2024-07-01,Nunavut,2,Part-time,0.0
+2024-10-01,Nunavut,2,Part-time,0.0
+2024-01-01,Nunavut,2,"Type of work, all types",-0.5923639315906852
+2024-04-01,Nunavut,2,"Type of work, all types",-0.4756762457136234
+2024-07-01,Nunavut,2,"Type of work, all types",-0.4812089358040523
+2024-10-01,Nunavut,2,"Type of work, all types",-8.315794905303303
+2024-01-01,Nunavut,4,Full-time,9.998588561992605
+2024-04-01,Nunavut,4,Full-time,9.998588561992605
+2024-07-01,Nunavut,4,Full-time,9.998588561992605
+2024-10-01,Nunavut,4,Full-time,54.99858856199266
+2024-01-01,Nunavut,4,Part-time,0.0
+2024-04-01,Nunavut,4,Part-time,0.0
+2024-07-01,Nunavut,4,Part-time,0.0
+2024-10-01,Nunavut,4,Part-time,0.0
+2024-01-01,Nunavut,4,"Type of work, all types",-3.988592357671367
+2024-04-01,Nunavut,4,"Type of work, all types",-3.669617135537076
+2024-07-01,Nunavut,4,"Type of work, all types",-3.696642366607202
+2024-10-01,Nunavut,4,"Type of work, all types",-3.6794733306069816
+2024-01-01,Nunavut,6,Full-time,62.29937589012056
+2024-04-01,Nunavut,6,Full-time,91.34184676059094
+2024-07-01,Nunavut,6,Full-time,83.29314433408501
+2024-10-01,Nunavut,6,Full-time,73.75544596917635
+2024-01-01,Nunavut,6,Part-time,5.758191209214473
+2024-04-01,Nunavut,6,Part-time,6.592973766426422
+2024-07-01,Nunavut,6,Part-time,8.982630728858714
+2024-10-01,Nunavut,6,Part-time,147.69334813123606
+2024-01-01,Nunavut,6,"Type of work, all types",64.96916284461798
+2024-04-01,Nunavut,6,"Type of work, all types",96.41548441703577
+2024-07-01,Nunavut,6,"Type of work, all types",88.73704088247278
+2024-10-01,Nunavut,6,"Type of work, all types",178.74561524927287
+2024-01-01,Nunavut,7,Full-time,10.865100850478314
+2024-04-01,Nunavut,7,Full-time,11.000549131705986
+2024-07-01,Nunavut,7,Full-time,11.37229397819414
+2024-10-01,Nunavut,7,Full-time,73.04126081376651
+2024-01-01,Nunavut,7,Part-time,-3.8511552423838458
+2024-04-01,Nunavut,7,Part-time,-4.670159258467143
+2024-07-01,Nunavut,7,Part-time,-4.436718265688109
+2024-10-01,Nunavut,7,Part-time,-8.870277116913227
+2024-01-01,Nunavut,7,"Type of work, all types",2.61207309086177
+2024-04-01,Nunavut,7,"Type of work, all types",0.9716993248693258
+2024-07-01,Nunavut,7,"Type of work, all types",1.3635768323004012
+2024-10-01,Nunavut,7,"Type of work, all types",83.14763548924365
+2024-01-01,Nunavut,8,"Type of work, all types",35.00000000000001
+2024-04-01,Nunavut,8,"Type of work, all types",35.00000000000001
+2024-07-01,Nunavut,8,"Type of work, all types",35.00000000000001
+2024-10-01,Nunavut,8,"Type of work, all types",70.00000000000001
+2024-01-01,Nunavut,101,Full-time,7.226012636944574
+2024-04-01,Nunavut,101,Full-time,9.172440702231917
+2024-07-01,Nunavut,101,Full-time,9.04240618722597
+2024-10-01,Nunavut,101,Full-time,238.51186668664104
+2024-01-01,Nunavut,101,Part-time,-2.404900389460444
+2024-04-01,Nunavut,101,Part-time,-2.390905449756413
+2024-07-01,Nunavut,101,Part-time,-2.3901840233035134
+2024-10-01,Nunavut,101,Part-time,-1.49633298814229
+2024-01-01,Nunavut,101,"Type of work, all types",6.292053068211914
+2024-04-01,Nunavut,101,"Type of work, all types",15.594126188212728
+2024-07-01,Nunavut,101,"Type of work, all types",14.713229944585438
+2024-10-01,Nunavut,101,"Type of work, all types",420.7700992744583
+2024-01-01,Ontario,0,Full-time,4.850348162846927
+2024-04-01,Ontario,0,Full-time,4.894406820519091
+2024-07-01,Ontario,0,Full-time,3.343595279230998
+2024-10-01,Ontario,0,Full-time,551.7012617447265
+2024-01-01,Ontario,0,Part-time,-4.1883598237975266e-07
+2024-04-01,Ontario,0,Part-time,-3.7679539671909906e-07
+2024-07-01,Ontario,0,Part-time,-5.575562331938797e-07
+2024-10-01,Ontario,0,Part-time,-3.7514334753099794e-07
+2024-01-01,Ontario,0,"Type of work, all types",3.2198857163036223
+2024-04-01,Ontario,0,"Type of work, all types",3.73300004116486
+2024-07-01,Ontario,0,"Type of work, all types",1.6438017586575366
+2024-10-01,Ontario,0,"Type of work, all types",551.2722558729203
+2024-01-01,Ontario,1,Full-time,921.4292745519124
+2024-04-01,Ontario,1,Full-time,1168.9949218429083
+2024-07-01,Ontario,1,Full-time,1389.3484861808065
+2024-10-01,Ontario,1,Full-time,43537.57073586759
+2024-01-01,Ontario,1,Part-time,292.11670965397525
+2024-04-01,Ontario,1,Part-time,267.2951734682911
+2024-07-01,Ontario,1,Part-time,290.4594693082419
+2024-10-01,Ontario,1,Part-time,4897.574430188404
+2024-01-01,Ontario,1,"Type of work, all types",1167.7342134663922
+2024-04-01,Ontario,1,"Type of work, all types",1312.3041918908007
+2024-07-01,Ontario,1,"Type of work, all types",1578.4160417069202
+2024-10-01,Ontario,1,"Type of work, all types",50963.80568300874
+2024-01-01,Ontario,2,Full-time,-2917.3510595900334
+2024-04-01,Ontario,2,Full-time,-4663.305151970617
+2024-07-01,Ontario,2,Full-time,-4054.0245359628857
+2024-10-01,Ontario,2,Full-time,20554.54078105707
+2024-01-01,Ontario,2,Part-time,18.228949708675145
+2024-04-01,Ontario,2,Part-time,20.166134261130658
+2024-07-01,Ontario,2,Part-time,20.095842959399207
+2024-10-01,Ontario,2,Part-time,26.895769530098562
+2024-01-01,Ontario,2,"Type of work, all types",637.8121988644189
+2024-04-01,Ontario,2,"Type of work, all types",836.9000014792024
+2024-07-01,Ontario,2,"Type of work, all types",1017.2681451424055
+2024-10-01,Ontario,2,"Type of work, all types",30751.759712833016
+2024-01-01,Ontario,3,Full-time,237.02450167763436
+2024-04-01,Ontario,3,Full-time,170.3998249417972
+2024-07-01,Ontario,3,Full-time,298.0482113364352
+2024-10-01,Ontario,3,Full-time,23481.135822050153
+2024-01-01,Ontario,3,Part-time,-16.925470229902658
+2024-04-01,Ontario,3,Part-time,28.147848962551684
+2024-07-01,Ontario,3,Part-time,33.661151086829186
+2024-10-01,Ontario,3,Part-time,23636.97091839285
+2024-01-01,Ontario,3,"Type of work, all types",-390.96840875193266
+2024-04-01,Ontario,3,"Type of work, all types",-664.5145877709645
+2024-07-01,Ontario,3,"Type of work, all types",-582.5743563398579
+2024-10-01,Ontario,3,"Type of work, all types",46844.943608070935
+2024-01-01,Ontario,4,Full-time,659.8103749051575
+2024-04-01,Ontario,4,Full-time,302.69489152289714
+2024-07-01,Ontario,4,Full-time,346.8131542726365
+2024-10-01,Ontario,4,Full-time,12828.214804866591
+2024-01-01,Ontario,4,Part-time,351.24627097160464
+2024-04-01,Ontario,4,Part-time,263.0614814918408
+2024-07-01,Ontario,4,Part-time,321.31253489317106
+2024-10-01,Ontario,4,Part-time,9828.607116315034
+2024-01-01,Ontario,4,"Type of work, all types",1210.2084581569125
+2024-04-01,Ontario,4,"Type of work, all types",674.2059012757663
+2024-07-01,Ontario,4,"Type of work, all types",735.2332271759808
+2024-10-01,Ontario,4,"Type of work, all types",24218.41606171034
+2024-01-01,Ontario,5,Full-time,79.27351858454472
+2024-04-01,Ontario,5,Full-time,88.51241886978616
+2024-07-01,Ontario,5,Full-time,88.09058896989114
+2024-10-01,Ontario,5,Full-time,3914.97241156314
+2024-01-01,Ontario,5,Part-time,264.45421900357735
+2024-04-01,Ontario,5,Part-time,337.45749615888417
+2024-07-01,Ontario,5,Part-time,348.5479186600013
+2024-10-01,Ontario,5,Part-time,2151.7760381205862
+2024-01-01,Ontario,5,"Type of work, all types",150.56049322239176
+2024-04-01,Ontario,5,"Type of work, all types",156.83073300155255
+2024-07-01,Ontario,5,"Type of work, all types",158.97685731106927
+2024-10-01,Ontario,5,"Type of work, all types",5481.169535424007
+2024-01-01,Ontario,6,Full-time,2106.0321594618617
+2024-04-01,Ontario,6,Full-time,2262.0168732653888
+2024-07-01,Ontario,6,Full-time,2256.995052807137
+2024-10-01,Ontario,6,Full-time,63091.790425433945
+2024-01-01,Ontario,6,Part-time,1464.0770223597974
+2024-04-01,Ontario,6,Part-time,1452.6205776201618
+2024-07-01,Ontario,6,Part-time,1452.5176912147801
+2024-10-01,Ontario,6,Part-time,35982.840203970336
+2024-01-01,Ontario,6,"Type of work, all types",2879.6676330610862
+2024-04-01,Ontario,6,"Type of work, all types",3058.73487572395
+2024-07-01,Ontario,6,"Type of work, all types",3053.187029345358
+2024-10-01,Ontario,6,"Type of work, all types",94724.25346582649
+2024-01-01,Ontario,7,Full-time,1992.2212715652659
+2024-04-01,Ontario,7,Full-time,1609.6114577521298
+2024-07-01,Ontario,7,Full-time,1634.660786926669
+2024-10-01,Ontario,7,Full-time,48354.08770988679
+2024-01-01,Ontario,7,Part-time,39.98188553537284
+2024-04-01,Ontario,7,Part-time,101.70263010345508
+2024-07-01,Ontario,7,Part-time,126.98784369654842
+2024-10-01,Ontario,7,Part-time,6652.286779744118
+2024-01-01,Ontario,7,"Type of work, all types",1231.527343016869
+2024-04-01,Ontario,7,"Type of work, all types",1606.409515521695
+2024-07-01,Ontario,7,"Type of work, all types",1956.073600502172
+2024-10-01,Ontario,7,"Type of work, all types",66595.94843144584
+2024-01-01,Ontario,8,Full-time,-15.606544711069091
+2024-04-01,Ontario,8,Full-time,-136.25824423779264
+2024-07-01,Ontario,8,Full-time,-66.00837987195628
+2024-10-01,Ontario,8,Full-time,5649.9098262654925
+2024-01-01,Ontario,8,Part-time,42.14993879657959
+2024-04-01,Ontario,8,Part-time,39.540765416520486
+2024-07-01,Ontario,8,Part-time,40.48456582430462
+2024-10-01,Ontario,8,Part-time,855.452607857715
+2024-01-01,Ontario,8,"Type of work, all types",16.65844601697404
+2024-04-01,Ontario,8,"Type of work, all types",-142.26494638950817
+2024-07-01,Ontario,8,"Type of work, all types",-57.647106954610734
+2024-10-01,Ontario,8,"Type of work, all types",6402.373380844742
+2024-01-01,Ontario,9,Full-time,841.7126136234929
+2024-04-01,Ontario,9,Full-time,676.8869855299431
+2024-07-01,Ontario,9,Full-time,684.2119628649372
+2024-10-01,Ontario,9,Full-time,17654.01378893361
+2024-01-01,Ontario,9,Part-time,-8.134869645899812
+2024-04-01,Ontario,9,Part-time,-6.7171445923868
+2024-07-01,Ontario,9,Part-time,-5.93616418178027
+2024-10-01,Ontario,9,Part-time,573.0333995857811
+2024-01-01,Ontario,9,"Type of work, all types",843.4034263799131
+2024-04-01,Ontario,9,"Type of work, all types",715.6490058036641
+2024-07-01,Ontario,9,"Type of work, all types",720.010186821734
+2024-10-01,Ontario,9,"Type of work, all types",19391.918483598096
+2024-01-01,Ontario,101,Full-time,6418.206732754756
+2024-04-01,Ontario,101,Full-time,5584.287122402204
+2024-07-01,Ontario,101,Full-time,5651.689457425821
+2024-10-01,Ontario,101,Full-time,236398.99823810658
+2024-01-01,Ontario,101,Part-time,2446.232480785775
+2024-04-01,Ontario,101,Part-time,2435.3010294788924
+2024-07-01,Ontario,101,Part-time,2435.4684395708705
+2024-10-01,Ontario,101,Part-time,82544.08064712501
+2024-01-01,Ontario,101,"Type of work, all types",7948.033059449168
+2024-04-01,Ontario,101,"Type of work, all types",7251.374897569461
+2024-07-01,Ontario,101,"Type of work, all types",7304.065219446961
+2024-10-01,Ontario,101,"Type of work, all types",315494.52810376865
+2024-01-01,Prince Edward Island,1,Full-time,8.86244576604716
+2024-04-01,Prince Edward Island,1,Full-time,10.24626502393383
+2024-07-01,Prince Edward Island,1,Full-time,10.136708439237971
+2024-10-01,Prince Edward Island,1,Full-time,105.07927075994913
+2024-01-01,Prince Edward Island,1,Part-time,2.8132620509822854e-17
+2024-04-01,Prince Edward Island,1,Part-time,1.2254455399387893e-17
+2024-07-01,Prince Edward Island,1,Part-time,1.5640070834374176e-17
+2024-10-01,Prince Edward Island,1,Part-time,1.5686471603762848e-17
+2024-01-01,Prince Edward Island,1,"Type of work, all types",15.010387483141713
+2024-04-01,Prince Edward Island,1,"Type of work, all types",17.477738505841057
+2024-07-01,Prince Edward Island,1,"Type of work, all types",17.466235107270208
+2024-10-01,Prince Edward Island,1,"Type of work, all types",115.88368231820698
+2024-01-01,Prince Edward Island,2,Full-time,28.61079429904447
+2024-04-01,Prince Edward Island,2,Full-time,50.88466969225977
+2024-07-01,Prince Edward Island,2,Full-time,27.799306578240603
+2024-10-01,Prince Edward Island,2,Full-time,283.5380709914608
+2024-01-01,Prince Edward Island,2,Part-time,0.0
+2024-04-01,Prince Edward Island,2,Part-time,0.0
+2024-07-01,Prince Edward Island,2,Part-time,0.0
+2024-10-01,Prince Edward Island,2,Part-time,0.0
+2024-01-01,Prince Edward Island,2,"Type of work, all types",7.328612474154397
+2024-04-01,Prince Edward Island,2,"Type of work, all types",5.517116559024137
+2024-07-01,Prince Edward Island,2,"Type of work, all types",5.6690473056701425
+2024-10-01,Prince Edward Island,2,"Type of work, all types",259.17429834736595
+2024-01-01,Prince Edward Island,3,Full-time,314.9989437342476
+2024-04-01,Prince Edward Island,3,Full-time,314.9989437365004
+2024-07-01,Prince Edward Island,3,Full-time,314.9989437365004
+2024-10-01,Prince Edward Island,3,Full-time,629.9981620075572
+2024-01-01,Prince Edward Island,3,Part-time,300.00065270359215
+2024-04-01,Prince Edward Island,3,Part-time,300.00065270606325
+2024-07-01,Prince Edward Island,3,Part-time,300.00065270606325
+2024-10-01,Prince Edward Island,3,Part-time,600.00120835085
+2024-01-01,Prince Edward Island,3,"Type of work, all types",60.69926455218899
+2024-04-01,Prince Edward Island,3,"Type of work, all types",150.11621242749914
+2024-07-01,Prince Edward Island,3,"Type of work, all types",52.40024907523481
+2024-10-01,Prince Edward Island,3,"Type of work, all types",-739.551462648509
+2024-01-01,Prince Edward Island,4,Full-time,-13.417138293241516
+2024-04-01,Prince Edward Island,4,Full-time,-15.208457464542942
+2024-07-01,Prince Edward Island,4,Full-time,-15.115868124065424
+2024-10-01,Prince Edward Island,4,Full-time,34.96299250072195
+2024-01-01,Prince Edward Island,4,Part-time,3.0793559003406266
+2024-04-01,Prince Edward Island,4,Part-time,5.292071004858
+2024-07-01,Prince Edward Island,4,Part-time,5.112065539788716
+2024-10-01,Prince Edward Island,4,Part-time,153.05578741039508
+2024-01-01,Prince Edward Island,4,"Type of work, all types",6.953718073639095
+2024-04-01,Prince Edward Island,4,"Type of work, all types",17.506466206821557
+2024-07-01,Prince Edward Island,4,"Type of work, all types",15.99432376153602
+2024-10-01,Prince Edward Island,4,"Type of work, all types",475.0873217495344
+2024-01-01,Prince Edward Island,6,Full-time,29.466132355388794
+2024-04-01,Prince Edward Island,6,Full-time,32.6841377491762
+2024-07-01,Prince Edward Island,6,Full-time,32.62885461366531
+2024-10-01,Prince Edward Island,6,Full-time,599.5620407224969
+2024-01-01,Prince Edward Island,6,Part-time,346.48396026114585
+2024-04-01,Prince Edward Island,6,Part-time,351.0891750791825
+2024-07-01,Prince Edward Island,6,Part-time,351.60040890032053
+2024-10-01,Prince Edward Island,6,Part-time,656.6689544818986
+2024-01-01,Prince Edward Island,6,"Type of work, all types",14.932655051132723
+2024-04-01,Prince Edward Island,6,"Type of work, all types",12.588631573326943
+2024-07-01,Prince Edward Island,6,"Type of work, all types",10.055982176341297
+2024-10-01,Prince Edward Island,6,"Type of work, all types",851.3624773981244
+2024-01-01,Prince Edward Island,7,Full-time,10.271766145959617
+2024-04-01,Prince Edward Island,7,Full-time,9.848026257804639
+2024-07-01,Prince Edward Island,7,Full-time,9.608934373569067
+2024-10-01,Prince Edward Island,7,Full-time,487.75870330132256
+2024-01-01,Prince Edward Island,7,Part-time,0.002420690320555252
+2024-04-01,Prince Edward Island,7,Part-time,0.00820614500246997
+2024-07-01,Prince Edward Island,7,Part-time,0.027330284084817805
+2024-10-01,Prince Edward Island,7,Part-time,-46.574378692499394
+2024-01-01,Prince Edward Island,7,"Type of work, all types",15.66561999348086
+2024-04-01,Prince Edward Island,7,"Type of work, all types",16.094512349043267
+2024-07-01,Prince Edward Island,7,"Type of work, all types",16.090780102090797
+2024-10-01,Prince Edward Island,7,"Type of work, all types",603.0392033053539
+2024-01-01,Prince Edward Island,9,Full-time,17.288144153995376
+2024-04-01,Prince Edward Island,9,Full-time,20.141617915485774
+2024-07-01,Prince Edward Island,9,Full-time,19.972552960042627
+2024-10-01,Prince Edward Island,9,Full-time,135.36889396920466
+2024-01-01,Prince Edward Island,9,Part-time,0.0
+2024-04-01,Prince Edward Island,9,Part-time,0.0
+2024-07-01,Prince Edward Island,9,Part-time,0.0
+2024-10-01,Prince Edward Island,9,Part-time,0.0
+2024-01-01,Prince Edward Island,9,"Type of work, all types",16.78187067684297
+2024-04-01,Prince Edward Island,9,"Type of work, all types",19.88114802691764
+2024-07-01,Prince Edward Island,9,"Type of work, all types",19.696424208256307
+2024-10-01,Prince Edward Island,9,"Type of work, all types",142.27095449612534
+2024-01-01,Prince Edward Island,101,Full-time,63.09515515959639
+2024-04-01,Prince Edward Island,101,Full-time,75.60239282818534
+2024-07-01,Prince Edward Island,101,Full-time,74.49814764775957
+2024-10-01,Prince Edward Island,101,Full-time,2288.5804498740545
+2024-01-01,Prince Edward Island,101,Part-time,6.241651606115148
+2024-04-01,Prince Edward Island,101,Part-time,11.149990376268317
+2024-07-01,Prince Edward Island,101,Part-time,12.177743891010504
+2024-10-01,Prince Edward Island,101,Part-time,652.1899158041763
+2024-01-01,Prince Edward Island,101,"Type of work, all types",87.81772653984955
+2024-04-01,Prince Edward Island,101,"Type of work, all types",102.29756324351696
+2024-07-01,Prince Edward Island,101,"Type of work, all types",101.07635839875158
+2024-10-01,Prince Edward Island,101,"Type of work, all types",3104.2239640319967
+2024-01-01,Quebec,0,Full-time,-9.554905412741334
+2024-04-01,Quebec,0,Full-time,-23.36723475060768
+2024-07-01,Quebec,0,Full-time,-21.286034537837487
+2024-10-01,Quebec,0,Full-time,62.700955716299525
+2024-01-01,Quebec,0,Part-time,0.0
+2024-04-01,Quebec,0,Part-time,0.0
+2024-07-01,Quebec,0,Part-time,0.0
+2024-10-01,Quebec,0,Part-time,0.0
+2024-01-01,Quebec,0,"Type of work, all types",-5.806834343398265
+2024-04-01,Quebec,0,"Type of work, all types",-3.490314637477932
+2024-07-01,Quebec,0,"Type of work, all types",-3.455667702884166
+2024-10-01,Quebec,0,"Type of work, all types",-146.57438493338358
+2024-01-01,Quebec,1,Full-time,851.0346990341923
+2024-04-01,Quebec,1,Full-time,884.9723002468166
+2024-07-01,Quebec,1,Full-time,986.6763135006269
+2024-10-01,Quebec,1,Full-time,27714.09699251002
+2024-01-01,Quebec,1,Part-time,26.229269461025183
+2024-04-01,Quebec,1,Part-time,66.7260919480952
+2024-07-01,Quebec,1,Part-time,62.135229263833835
+2024-10-01,Quebec,1,Part-time,2587.550225627296
+2024-01-01,Quebec,1,"Type of work, all types",714.839971396118
+2024-04-01,Quebec,1,"Type of work, all types",1016.2067769066007
+2024-07-01,Quebec,1,"Type of work, all types",1150.5248764247708
+2024-10-01,Quebec,1,"Type of work, all types",31398.01032759567
+2024-01-01,Quebec,2,Full-time,202.02825602986468
+2024-04-01,Quebec,2,Full-time,-75.3050261681528
+2024-07-01,Quebec,2,Full-time,-45.39187437990144
+2024-10-01,Quebec,2,Full-time,17494.676250369357
+2024-01-01,Quebec,2,Part-time,27.56543841453737
+2024-04-01,Quebec,2,Part-time,31.436372983729093
+2024-07-01,Quebec,2,Part-time,31.4023107528216
+2024-10-01,Quebec,2,Part-time,194.4437436893218
+2024-01-01,Quebec,2,"Type of work, all types",230.72449317519659
+2024-04-01,Quebec,2,"Type of work, all types",-59.70061151258065
+2024-07-01,Quebec,2,"Type of work, all types",-30.106278949614552
+2024-10-01,Quebec,2,"Type of work, all types",17661.790668648628
+2024-01-01,Quebec,3,Full-time,124.10599514285104
+2024-04-01,Quebec,3,Full-time,108.01610560019535
+2024-07-01,Quebec,3,Full-time,133.05409598206774
+2024-10-01,Quebec,3,Full-time,24187.138121431915
+2024-01-01,Quebec,3,Part-time,393.37279820734057
+2024-04-01,Quebec,3,Part-time,313.8800847438414
+2024-07-01,Quebec,3,Part-time,324.19768432959313
+2024-10-01,Quebec,3,Part-time,8979.053961781012
+2024-01-01,Quebec,3,"Type of work, all types",-64.73889466828632
+2024-04-01,Quebec,3,"Type of work, all types",-54.93217326858117
+2024-07-01,Quebec,3,"Type of work, all types",84.09411357983092
+2024-10-01,Quebec,3,"Type of work, all types",30817.88614678799
+2024-01-01,Quebec,4,Full-time,162.93018443478292
+2024-04-01,Quebec,4,Full-time,88.82081685145849
+2024-07-01,Quebec,4,Full-time,116.06552213045723
+2024-10-01,Quebec,4,Full-time,12340.836745817161
+2024-01-01,Quebec,4,Part-time,132.59769637997977
+2024-04-01,Quebec,4,Part-time,79.09081362706542
+2024-07-01,Quebec,4,Part-time,91.69782155492577
+2024-10-01,Quebec,4,Part-time,4296.0806068284965
+2024-01-01,Quebec,4,"Type of work, all types",203.69740315829233
+2024-04-01,Quebec,4,"Type of work, all types",77.51774130718864
+2024-07-01,Quebec,4,"Type of work, all types",150.34371560517314
+2024-10-01,Quebec,4,"Type of work, all types",16714.657519458353
+2024-01-01,Quebec,5,Full-time,74.21775456466685
+2024-04-01,Quebec,5,Full-time,96.09620784670936
+2024-07-01,Quebec,5,Full-time,76.9687510155661
+2024-10-01,Quebec,5,Full-time,3555.598444155822
+2024-01-01,Quebec,5,Part-time,73.43979981569778
+2024-04-01,Quebec,5,Part-time,87.27363000717874
+2024-07-01,Quebec,5,Part-time,88.56910002875796
+2024-10-01,Quebec,5,Part-time,743.6991388425986
+2024-01-01,Quebec,5,"Type of work, all types",75.36606063236991
+2024-04-01,Quebec,5,"Type of work, all types",122.29735548672316
+2024-07-01,Quebec,5,"Type of work, all types",87.33927038998009
+2024-10-01,Quebec,5,"Type of work, all types",4945.618078750308
+2024-01-01,Quebec,6,Full-time,1127.142988758359
+2024-04-01,Quebec,6,Full-time,1920.6736902655655
+2024-07-01,Quebec,6,Full-time,1990.7910375499616
+2024-10-01,Quebec,6,Full-time,53920.65476464972
+2024-01-01,Quebec,6,Part-time,579.4489985938703
+2024-04-01,Quebec,6,Part-time,994.6342228320228
+2024-07-01,Quebec,6,Part-time,1066.8186498807888
+2024-10-01,Quebec,6,Part-time,29072.173188459685
+2024-01-01,Quebec,6,"Type of work, all types",1237.6140595538618
+2024-04-01,Quebec,6,"Type of work, all types",2857.4699703644847
+2024-07-01,Quebec,6,"Type of work, all types",2955.154431271214
+2024-10-01,Quebec,6,"Type of work, all types",85535.79444064954
+2024-01-01,Quebec,7,Full-time,956.0791090182183
+2024-04-01,Quebec,7,Full-time,174.45337590369456
+2024-07-01,Quebec,7,Full-time,247.30888774909678
+2024-10-01,Quebec,7,Full-time,29778.654646714793
+2024-01-01,Quebec,7,Part-time,146.99892065447239
+2024-04-01,Quebec,7,Part-time,228.20363558435562
+2024-07-01,Quebec,7,Part-time,224.18259925230737
+2024-10-01,Quebec,7,Part-time,3135.490824480415
+2024-01-01,Quebec,7,"Type of work, all types",1258.0777626356885
+2024-04-01,Quebec,7,"Type of work, all types",277.3663903158463
+2024-07-01,Quebec,7,"Type of work, all types",375.5393956431991
+2024-10-01,Quebec,7,"Type of work, all types",33089.615337344614
+2024-01-01,Quebec,8,Full-time,-8.810809226248011
+2024-04-01,Quebec,8,Full-time,-31.21357232891235
+2024-07-01,Quebec,8,Full-time,-23.611345301965166
+2024-10-01,Quebec,8,Full-time,2679.7601545068856
+2024-01-01,Quebec,8,Part-time,-26.196567132044027
+2024-04-01,Quebec,8,Part-time,-39.810880520401376
+2024-07-01,Quebec,8,Part-time,-37.6287232921082
+2024-10-01,Quebec,8,Part-time,32.885665510739834
+2024-01-01,Quebec,8,"Type of work, all types",-75.33196723209721
+2024-04-01,Quebec,8,"Type of work, all types",-121.69478880633625
+2024-07-01,Quebec,8,"Type of work, all types",-112.81122023167
+2024-10-01,Quebec,8,"Type of work, all types",2918.5413982814866
+2024-01-01,Quebec,9,Full-time,66.92501050502506
+2024-04-01,Quebec,9,Full-time,167.1332555566931
+2024-07-01,Quebec,9,Full-time,344.3734446164693
+2024-10-01,Quebec,9,Full-time,8258.880591289486
+2024-01-01,Quebec,9,Part-time,49.54240362672261
+2024-04-01,Quebec,9,Part-time,51.88495951472741
+2024-07-01,Quebec,9,Part-time,51.756733192039476
+2024-10-01,Quebec,9,Part-time,279.51036673387944
+2024-01-01,Quebec,9,"Type of work, all types",279.44867037395306
+2024-04-01,Quebec,9,"Type of work, all types",150.95276516681434
+2024-07-01,Quebec,9,"Type of work, all types",278.6375631871089
+2024-10-01,Quebec,9,"Type of work, all types",8954.161447478564
+2024-01-01,Quebec,101,Full-time,5858.638513655023
+2024-04-01,Quebec,101,Full-time,128.55328958034806
+2024-07-01,Quebec,101,Full-time,944.8418609923132
+2024-10-01,Quebec,101,Full-time,161597.92303590302
+2024-01-01,Quebec,101,Part-time,911.7629021427956
+2024-04-01,Quebec,101,Part-time,1646.4616711145222
+2024-07-01,Quebec,101,Part-time,1746.6561278759907
+2024-10-01,Quebec,101,Part-time,54982.720997721015
+2024-01-01,Quebec,101,"Type of work, all types",11147.481660672558
+2024-04-01,Quebec,101,"Type of work, all types",6148.424185190999
+2024-07-01,Quebec,101,"Type of work, all types",6983.759393436472
+2024-10-01,Quebec,101,"Type of work, all types",210316.14092391127
+2024-01-01,Saskatchewan,0,Full-time,1.3465394493559693
+2024-04-01,Saskatchewan,0,Full-time,1.349208607047397
+2024-07-01,Saskatchewan,0,Full-time,1.3490928398442779
+2024-10-01,Saskatchewan,0,Full-time,33.842730478838625
+2024-01-01,Saskatchewan,0,Part-time,0.0
+2024-04-01,Saskatchewan,0,Part-time,0.0
+2024-07-01,Saskatchewan,0,Part-time,0.0
+2024-10-01,Saskatchewan,0,Part-time,0.0
+2024-01-01,Saskatchewan,0,"Type of work, all types",1.3465394493559693
+2024-04-01,Saskatchewan,0,"Type of work, all types",1.349208607047397
+2024-07-01,Saskatchewan,0,"Type of work, all types",1.3490928398442779
+2024-10-01,Saskatchewan,0,"Type of work, all types",33.842730478838625
+2024-01-01,Saskatchewan,1,Full-time,63.26690828915116
+2024-04-01,Saskatchewan,1,Full-time,33.09856573307248
+2024-07-01,Saskatchewan,1,Full-time,36.546976130802285
+2024-10-01,Saskatchewan,1,Full-time,1639.1409844885889
+2024-01-01,Saskatchewan,1,Part-time,23.859046110212887
+2024-04-01,Saskatchewan,1,Part-time,17.324063209674428
+2024-07-01,Saskatchewan,1,Part-time,18.000086980961267
+2024-10-01,Saskatchewan,1,Part-time,338.77872573757537
+2024-01-01,Saskatchewan,1,"Type of work, all types",77.84591485627374
+2024-04-01,Saskatchewan,1,"Type of work, all types",47.767342300817475
+2024-07-01,Saskatchewan,1,"Type of work, all types",50.663020995177995
+2024-10-01,Saskatchewan,1,"Type of work, all types",1968.0511494415825
+2024-01-01,Saskatchewan,2,Full-time,38.156022431136265
+2024-04-01,Saskatchewan,2,Full-time,45.30487812751714
+2024-07-01,Saskatchewan,2,Full-time,44.729289656589394
+2024-10-01,Saskatchewan,2,Full-time,1145.2024393806
+2024-01-01,Saskatchewan,2,Part-time,-0.18209461309632782
+2024-04-01,Saskatchewan,2,Part-time,-0.09936280589188048
+2024-07-01,Saskatchewan,2,Part-time,-0.10927221149773042
+2024-10-01,Saskatchewan,2,Part-time,0.322205378792897
+2024-01-01,Saskatchewan,2,"Type of work, all types",36.44646955669313
+2024-04-01,Saskatchewan,2,"Type of work, all types",39.49145986563898
+2024-07-01,Saskatchewan,2,"Type of work, all types",39.26732734514057
+2024-10-01,Saskatchewan,2,"Type of work, all types",1141.753004980841
+2024-01-01,Saskatchewan,3,Full-time,26.187616733586538
+2024-04-01,Saskatchewan,3,Full-time,47.09447392250894
+2024-07-01,Saskatchewan,3,Full-time,45.839913429122376
+2024-10-01,Saskatchewan,3,Full-time,2422.7659234804305
+2024-01-01,Saskatchewan,3,Part-time,12.760101170221617
+2024-04-01,Saskatchewan,3,Part-time,16.728634189356804
+2024-07-01,Saskatchewan,3,Part-time,16.321913382593632
+2024-10-01,Saskatchewan,3,Part-time,1140.8644226438516
+2024-01-01,Saskatchewan,3,"Type of work, all types",43.66459346413933
+2024-04-01,Saskatchewan,3,"Type of work, all types",45.91882070558331
+2024-07-01,Saskatchewan,3,"Type of work, all types",45.33595309161843
+2024-10-01,Saskatchewan,3,"Type of work, all types",4293.335434405317
+2024-01-01,Saskatchewan,4,Full-time,10.148453221680484
+2024-04-01,Saskatchewan,4,Full-time,9.431158197241114
+2024-07-01,Saskatchewan,4,Full-time,9.467761171185098
+2024-10-01,Saskatchewan,4,Full-time,915.7868840562301
+2024-01-01,Saskatchewan,4,Part-time,3.2376304566072918
+2024-04-01,Saskatchewan,4,Part-time,16.687134939092225
+2024-07-01,Saskatchewan,4,Part-time,15.490969826317254
+2024-10-01,Saskatchewan,4,Part-time,674.125663044751
+2024-01-01,Saskatchewan,4,"Type of work, all types",17.572520814550558
+2024-04-01,Saskatchewan,4,"Type of work, all types",32.100825525753464
+2024-07-01,Saskatchewan,4,"Type of work, all types",30.757126233091334
+2024-10-01,Saskatchewan,4,"Type of work, all types",1617.6050316283265
+2024-01-01,Saskatchewan,5,Full-time,-2.4937360383361806
+2024-04-01,Saskatchewan,5,Full-time,-0.9012698707107498
+2024-07-01,Saskatchewan,5,Full-time,-0.9196312320439762
+2024-10-01,Saskatchewan,5,Full-time,29.139492333906745
+2024-01-01,Saskatchewan,5,Part-time,7.341060356014708
+2024-04-01,Saskatchewan,5,Part-time,12.375703975066099
+2024-07-01,Saskatchewan,5,Part-time,12.002927294414764
+2024-10-01,Saskatchewan,5,Part-time,132.7837189732195
+2024-01-01,Saskatchewan,5,"Type of work, all types",2.2496223927947767
+2024-04-01,Saskatchewan,5,"Type of work, all types",8.93169028174582
+2024-07-01,Saskatchewan,5,"Type of work, all types",8.349360218792334
+2024-10-01,Saskatchewan,5,"Type of work, all types",282.6308884310097
+2024-01-01,Saskatchewan,6,Full-time,134.54283361626585
+2024-04-01,Saskatchewan,6,Full-time,311.75719448273185
+2024-07-01,Saskatchewan,6,Full-time,306.84160035206173
+2024-10-01,Saskatchewan,6,Full-time,6543.115038203559
+2024-01-01,Saskatchewan,6,Part-time,92.66919126298352
+2024-04-01,Saskatchewan,6,Part-time,149.5913995636627
+2024-07-01,Saskatchewan,6,Part-time,133.41178315559247
+2024-10-01,Saskatchewan,6,Part-time,3537.866254547101
+2024-01-01,Saskatchewan,6,"Type of work, all types",150.93914100040456
+2024-04-01,Saskatchewan,6,"Type of work, all types",451.68864029158436
+2024-07-01,Saskatchewan,6,"Type of work, all types",480.3414677895062
+2024-10-01,Saskatchewan,6,"Type of work, all types",10052.658289588195
+2024-01-01,Saskatchewan,7,Full-time,91.53666049273806
+2024-04-01,Saskatchewan,7,Full-time,103.13369738909589
+2024-07-01,Saskatchewan,7,Full-time,102.41390756266433
+2024-10-01,Saskatchewan,7,Full-time,4795.898671723809
+2024-01-01,Saskatchewan,7,Part-time,19.429338943582593
+2024-04-01,Saskatchewan,7,Part-time,20.0939348285279
+2024-07-01,Saskatchewan,7,Part-time,20.068871138737325
+2024-10-01,Saskatchewan,7,Part-time,352.1598430856528
+2024-01-01,Saskatchewan,7,"Type of work, all types",105.86285061020453
+2024-04-01,Saskatchewan,7,"Type of work, all types",104.92924624066893
+2024-07-01,Saskatchewan,7,"Type of work, all types",100.56607472911205
+2024-10-01,Saskatchewan,7,"Type of work, all types",6487.113505358905
+2024-01-01,Saskatchewan,8,Full-time,24.553810654607247
+2024-04-01,Saskatchewan,8,Full-time,21.053441916932535
+2024-07-01,Saskatchewan,8,Full-time,10.628798342356209
+2024-10-01,Saskatchewan,8,Full-time,1063.9884096451672
+2024-01-01,Saskatchewan,8,"Type of work, all types",17.222209333131318
+2024-04-01,Saskatchewan,8,"Type of work, all types",21.464167277208496
+2024-07-01,Saskatchewan,8,"Type of work, all types",21.2976824796927
+2024-10-01,Saskatchewan,8,"Type of work, all types",1073.2916715831366
+2024-01-01,Saskatchewan,9,Full-time,18.942407966471706
+2024-04-01,Saskatchewan,9,Full-time,18.592869526903044
+2024-07-01,Saskatchewan,9,Full-time,18.595035413255797
+2024-10-01,Saskatchewan,9,Full-time,598.9855879632446
+2024-01-01,Saskatchewan,9,Part-time,0.0
+2024-04-01,Saskatchewan,9,Part-time,0.0
+2024-07-01,Saskatchewan,9,Part-time,0.0
+2024-10-01,Saskatchewan,9,Part-time,0.0
+2024-01-01,Saskatchewan,9,"Type of work, all types",20.440996489614136
+2024-04-01,Saskatchewan,9,"Type of work, all types",20.106551108114555
+2024-07-01,Saskatchewan,9,"Type of work, all types",20.108927350750236
+2024-10-01,Saskatchewan,9,"Type of work, all types",620.4330642249031
+2024-01-01,Saskatchewan,101,Full-time,1392.8264203706524
+2024-04-01,Saskatchewan,101,Full-time,1104.5404355292899
+2024-07-01,Saskatchewan,101,Full-time,972.0467101914442
+2024-10-01,Saskatchewan,101,Full-time,20070.76770623414
+2024-01-01,Saskatchewan,101,Part-time,112.78546535275729
+2024-04-01,Saskatchewan,101,Part-time,152.64645377468764
+2024-07-01,Saskatchewan,101,Part-time,149.9637433558137
+2024-10-01,Saskatchewan,101,Part-time,5627.0230613066105
+2024-01-01,Saskatchewan,101,"Type of work, all types",1670.9907976933534
+2024-04-01,Saskatchewan,101,"Type of work, all types",1276.7650724024138
+2024-07-01,Saskatchewan,101,"Type of work, all types",1100.9667793812887
+2024-10-01,Saskatchewan,101,"Type of work, all types",26424.683127608576
+2024-01-01,Yukon,1,Full-time,4.518227168222447
+2024-04-01,Yukon,1,Full-time,5.72892328258386
+2024-07-01,Yukon,1,Full-time,5.65719629988928
+2024-10-01,Yukon,1,Full-time,107.41848891659902
+2024-01-01,Yukon,1,Part-time,-1.9098302274639978e-08
+2024-04-01,Yukon,1,Part-time,-1.8850706569274608e-08
+2024-07-01,Yukon,1,Part-time,-2.3827191936015932e-08
+2024-10-01,Yukon,1,Part-time,-2.2538375722011235e-08
+2024-01-01,Yukon,1,"Type of work, all types",3.539396314662725
+2024-04-01,Yukon,1,"Type of work, all types",4.279389571346889
+2024-07-01,Yukon,1,"Type of work, all types",4.228385531604738
+2024-10-01,Yukon,1,"Type of work, all types",129.71633779612748
+2024-01-01,Yukon,2,Full-time,0.0
+2024-04-01,Yukon,2,Full-time,0.0
+2024-07-01,Yukon,2,Full-time,0.0
+2024-10-01,Yukon,2,Full-time,0.0
+2024-01-01,Yukon,2,Part-time,0.0
+2024-04-01,Yukon,2,Part-time,0.0
+2024-07-01,Yukon,2,Part-time,0.0
+2024-10-01,Yukon,2,Part-time,0.0
+2024-01-01,Yukon,2,"Type of work, all types",0.0
+2024-04-01,Yukon,2,"Type of work, all types",0.0
+2024-07-01,Yukon,2,"Type of work, all types",0.0
+2024-10-01,Yukon,2,"Type of work, all types",0.0
+2024-01-01,Yukon,3,Full-time,-3.1822875081757998
+2024-04-01,Yukon,3,Full-time,-4.437639110400772
+2024-07-01,Yukon,3,Full-time,-4.2646629962125875
+2024-10-01,Yukon,3,Full-time,5.495024277800657
+2024-01-01,Yukon,3,Part-time,0.5859780629811304
+2024-04-01,Yukon,3,Part-time,1.687760424125837
+2024-07-01,Yukon,3,Part-time,1.5577143969472245
+2024-10-01,Yukon,3,Part-time,15.225360775380068
+2024-01-01,Yukon,3,"Type of work, all types",33.13672270531066
+2024-04-01,Yukon,3,"Type of work, all types",49.04855660917446
+2024-07-01,Yukon,3,"Type of work, all types",43.000619740737534
+2024-10-01,Yukon,3,"Type of work, all types",29.221629659931253
+2024-01-01,Yukon,4,Full-time,0.0
+2024-04-01,Yukon,4,Full-time,0.0
+2024-07-01,Yukon,4,Full-time,0.0
+2024-10-01,Yukon,4,Full-time,0.0
+2024-01-01,Yukon,4,Part-time,-3.257972791703782
+2024-04-01,Yukon,4,Part-time,-4.887481203100585
+2024-07-01,Yukon,4,Part-time,-4.344311732634985
+2024-10-01,Yukon,4,Part-time,7.328133751315606
+2024-01-01,Yukon,4,"Type of work, all types",11.474078837922647
+2024-04-01,Yukon,4,"Type of work, all types",9.247297202460512
+2024-07-01,Yukon,4,"Type of work, all types",9.395223860352141
+2024-10-01,Yukon,4,"Type of work, all types",43.77001131028903
+2024-01-01,Yukon,5,Full-time,5.0
+2024-04-01,Yukon,5,Full-time,5.0
+2024-07-01,Yukon,5,Full-time,5.0
+2024-10-01,Yukon,5,Full-time,8.333333333333334
+2024-01-01,Yukon,5,Part-time,-1.7763568393895957e-15
+2024-04-01,Yukon,5,Part-time,-1.746197086192394e-15
+2024-07-01,Yukon,5,Part-time,-1.746197086192394e-15
+2024-10-01,Yukon,5,Part-time,-1.746197086192394e-15
+2024-01-01,Yukon,5,"Type of work, all types",15.0
+2024-04-01,Yukon,5,"Type of work, all types",15.0
+2024-07-01,Yukon,5,"Type of work, all types",15.0
+2024-10-01,Yukon,5,"Type of work, all types",25.0
+2024-01-01,Yukon,6,Full-time,27.849864496308044
+2024-04-01,Yukon,6,Full-time,22.21156953342183
+2024-07-01,Yukon,6,Full-time,22.819460774104893
+2024-10-01,Yukon,6,Full-time,360.90905531333885
+2024-01-01,Yukon,6,Part-time,3.1278218206775534
+2024-04-01,Yukon,6,Part-time,9.002310920092187
+2024-07-01,Yukon,6,Part-time,8.062720253058227
+2024-10-01,Yukon,6,Part-time,51.599992610276765
+2024-01-01,Yukon,6,"Type of work, all types",-10.861844787487115
+2024-04-01,Yukon,6,"Type of work, all types",-6.982849458335082
+2024-07-01,Yukon,6,"Type of work, all types",-10.51721639112411
+2024-10-01,Yukon,6,"Type of work, all types",429.9804504816806
+2024-01-01,Yukon,7,Full-time,6.24842316739646
+2024-04-01,Yukon,7,Full-time,8.340515152654174
+2024-07-01,Yukon,7,Full-time,9.024461591830018
+2024-10-01,Yukon,7,Full-time,233.2624617513341
+2024-01-01,Yukon,7,Part-time,54.99988032724613
+2024-04-01,Yukon,7,Part-time,54.9998803274416
+2024-07-01,Yukon,7,Part-time,54.9998803274416
+2024-10-01,Yukon,7,Part-time,109.99982324870167
+2024-01-01,Yukon,7,"Type of work, all types",5.678033614526234
+2024-04-01,Yukon,7,"Type of work, all types",3.495177121278286
+2024-07-01,Yukon,7,"Type of work, all types",3.567395653181561
+2024-10-01,Yukon,7,"Type of work, all types",230.6276471462815
+2024-01-01,Yukon,101,Full-time,36.344775601547965
+2024-04-01,Yukon,101,Full-time,27.02548261811789
+2024-07-01,Yukon,101,Full-time,28.46779124408441
+2024-10-01,Yukon,101,Full-time,986.2413453379106
+2024-01-01,Yukon,101,Part-time,-24.793021119697443
+2024-04-01,Yukon,101,Part-time,-35.03437769407597
+2024-07-01,Yukon,101,Part-time,-34.14057843873721
+2024-10-01,Yukon,101,Part-time,185.993666767655
+2024-01-01,Yukon,101,"Type of work, all types",20.3257821720461
+2024-04-01,Yukon,101,"Type of work, all types",33.26248204741386
+2024-07-01,Yukon,101,"Type of work, all types",30.378859610294985
+2024-10-01,Yukon,101,"Type of work, all types",1270.1336385601712

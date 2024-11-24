@@ -1,0 +1,27 @@
+# Ignore large CSV file
+Database/Resources/14100443.csv
+Machine_Learning/combined_dataset_job_char.pkl
+Machine_Learning/combined_dataset.pkl
+Machine_Learning/predictions_job_char.pkl
+Machine_Learning/Machine_Learning\combined_dataset.pkl
+Machine_Learning\pickle\combined_dataset.pkl
+/Machine_Learning/combined_dataset_job_char.pkl
+/Machine_Learning/combined_dataset.pkl
+/Machine_Learning/predictions_job_char.pkl
+/Machine_Learning/Machine_Learning\combined_dataset.pkl
+
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+.env/
+.env
+
+# Other typical ignores (adjust as needed)
+.idea/
+.vscode/
+*.log
+
